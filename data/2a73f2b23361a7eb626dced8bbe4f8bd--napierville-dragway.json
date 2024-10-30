@@ -1,0 +1,21 @@
+{
+    "name": "Napierville Dragway",
+    "short_name": "NapiervilleD",
+    "start_finish": {
+        "lat": 451919899,
+        "lon": -734463104,
+        "elev": 57000
+    },
+    "pts": [
+        {
+            "lat": 451919899,
+            "lon": -734463104,
+            "elev": 57000
+        },
+        {
+            "lat": 451921561,
+            "lon": -734409790,
+            "elev": 55000
+        }
+    ]
+}

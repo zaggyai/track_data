@@ -1,0 +1,21 @@
+{
+    "name": "Texas Motorplex",
+    "short_name": "TMplex DW",
+    "start_finish": {
+        "lat": 323285230,
+        "lon": -967175744,
+        "elev": 158000
+    },
+    "pts": [
+        {
+            "lat": 323285230,
+            "lon": -967175744,
+            "elev": 158000
+        },
+        {
+            "lat": 323307059,
+            "lon": -967139430,
+            "elev": 156000
+        }
+    ]
+}

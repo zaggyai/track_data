@@ -1,0 +1,21 @@
+{
+    "name": "Farmington Dragway",
+    "short_name": "FarmingtonDW",
+    "start_finish": {
+        "lat": 360155447,
+        "lon": -805631643,
+        "elev": 246000
+    },
+    "pts": [
+        {
+            "lat": 360155447,
+            "lon": -805631643,
+            "elev": 246000
+        },
+        {
+            "lat": 360174903,
+            "lon": -805630394,
+            "elev": 244000
+        }
+    ]
+}

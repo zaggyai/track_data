@@ -1,0 +1,21 @@
+{
+    "name": "Knoxville Dragstrip",
+    "short_name": "KnoxvilleDW",
+    "start_finish": {
+        "lat": 361834140,
+        "lon": -839035917,
+        "elev": 285000
+    },
+    "pts": [
+        {
+            "lat": 361834140,
+            "lon": -839035917,
+            "elev": 285000
+        },
+        {
+            "lat": 361850928,
+            "lon": -839023479,
+            "elev": 285000
+        }
+    ]
+}

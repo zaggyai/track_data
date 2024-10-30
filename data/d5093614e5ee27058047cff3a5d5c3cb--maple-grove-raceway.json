@@ -1,0 +1,21 @@
+{
+    "name": "Maple Grove Raceway",
+    "short_name": "MapleGrove",
+    "start_finish": {
+        "lat": 402128220,
+        "lon": -759613987,
+        "elev": 161000
+    },
+    "pts": [
+        {
+            "lat": 402128220,
+            "lon": -759613987,
+            "elev": 161000
+        },
+        {
+            "lat": 402093549,
+            "lon": -759594818,
+            "elev": 157000
+        }
+    ]
+}

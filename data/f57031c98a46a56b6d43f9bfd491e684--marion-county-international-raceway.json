@@ -1,0 +1,21 @@
+{
+    "name": "Marion County International Raceway",
+    "short_name": "MarionC DW",
+    "start_finish": {
+        "lat": 405440827,
+        "lon": -833636069,
+        "elev": 283000
+    },
+    "pts": [
+        {
+            "lat": 405440827,
+            "lon": -833636069,
+            "elev": 283000
+        },
+        {
+            "lat": 405407390,
+            "lon": -833658777,
+            "elev": 280000
+        }
+    ]
+}

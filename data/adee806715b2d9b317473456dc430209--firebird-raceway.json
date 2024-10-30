@@ -1,0 +1,21 @@
+{
+    "name": "Firebird Raceway",
+    "short_name": "Firebird DW",
+    "start_finish": {
+        "lat": 437649510,
+        "lon": -1164667848,
+        "elev": 831000
+    },
+    "pts": [
+        {
+            "lat": 437649510,
+            "lon": -1164667848,
+            "elev": 831000
+        },
+        {
+            "lat": 437685101,
+            "lon": -1164684861,
+            "elev": 823000
+        }
+    ]
+}

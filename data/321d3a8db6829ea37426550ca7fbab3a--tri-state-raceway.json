@@ -1,0 +1,21 @@
+{
+    "name": "Tri State Raceway",
+    "short_name": "TriState DW",
+    "start_finish": {
+        "lat": 424680283,
+        "lon": -912855959,
+        "elev": 322000
+    },
+    "pts": [
+        {
+            "lat": 424680283,
+            "lon": -912855959,
+            "elev": 322000
+        },
+        {
+            "lat": 424675980,
+            "lon": -912805208,
+            "elev": 317000
+        }
+    ]
+}

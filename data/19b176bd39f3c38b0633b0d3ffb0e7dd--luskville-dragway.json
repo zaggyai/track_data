@@ -1,0 +1,21 @@
+{
+    "name": "Luskville Dragway",
+    "short_name": "Luskville DW",
+    "start_finish": {
+        "lat": 455189812,
+        "lon": -760332306,
+        "elev": 63000
+    },
+    "pts": [
+        {
+            "lat": 455189812,
+            "lon": -760332306,
+            "elev": 63000
+        },
+        {
+            "lat": 455152632,
+            "lon": -760322673,
+            "elev": 65000
+        }
+    ]
+}

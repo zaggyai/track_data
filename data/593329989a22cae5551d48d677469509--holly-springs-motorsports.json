@@ -1,0 +1,21 @@
+{
+    "name": "Holly Springs Motorsports",
+    "short_name": "HollySprngDW",
+    "start_finish": {
+        "lat": 347347342,
+        "lon": -894536901,
+        "elev": 156000
+    },
+    "pts": [
+        {
+            "lat": 347347342,
+            "lon": -894536901,
+            "elev": 156000
+        },
+        {
+            "lat": 347366949,
+            "lon": -894536433,
+            "elev": 156000
+        }
+    ]
+}

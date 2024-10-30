@@ -1,0 +1,21 @@
+{
+    "name": "Alastaro Circuit",
+    "short_name": "Alastaro DW",
+    "start_finish": {
+        "lat": 609724538,
+        "lon": 226586464,
+        "elev": -32768000
+    },
+    "pts": [
+        {
+            "lat": 609724538,
+            "lon": 226586464,
+            "elev": -32768000
+        },
+        {
+            "lat": 609761912,
+            "lon": 226578823,
+            "elev": -32768000
+        }
+    ]
+}

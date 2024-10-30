@@ -1,0 +1,21 @@
+{
+    "name": "Kansas International Dragway",
+    "short_name": "Kansas DW",
+    "start_finish": {
+        "lat": 377965707,
+        "lon": -974362592,
+        "elev": 417000
+    },
+    "pts": [
+        {
+            "lat": 377965707,
+            "lon": -974362592,
+            "elev": 417000
+        },
+        {
+            "lat": 378000702,
+            "lon": -974380396,
+            "elev": 414000
+        }
+    ]
+}

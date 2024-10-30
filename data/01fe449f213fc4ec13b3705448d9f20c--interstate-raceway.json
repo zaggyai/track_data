@@ -1,0 +1,21 @@
+{
+    "name": "Interstate Raceway",
+    "short_name": "InterstateDW",
+    "start_finish": {
+        "lat": 468299547,
+        "lon": -966528262,
+        "elev": 282000
+    },
+    "pts": [
+        {
+            "lat": 468299547,
+            "lon": -966528262,
+            "elev": 282000
+        },
+        {
+            "lat": 468299362,
+            "lon": -966583182,
+            "elev": 281000
+        }
+    ]
+}

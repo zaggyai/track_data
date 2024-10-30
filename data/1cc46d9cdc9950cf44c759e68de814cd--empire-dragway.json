@@ -1,0 +1,21 @@
+{
+    "name": "Empire Dragway",
+    "short_name": "Empire DW",
+    "start_finish": {
+        "lat": 427979413,
+        "lon": -779361124,
+        "elev": 280000
+    },
+    "pts": [
+        {
+            "lat": 427979413,
+            "lon": -779361124,
+            "elev": 280000
+        },
+        {
+            "lat": 427970965,
+            "lon": -779311245,
+            "elev": 275000
+        }
+    ]
+}

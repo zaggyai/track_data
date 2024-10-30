@@ -1,0 +1,21 @@
+{
+    "name": "Wild Horse Pass Motorsports Park",
+    "short_name": "WHPMP DW",
+    "start_finish": {
+        "lat": 332706272,
+        "lon": -1119705645,
+        "elev": 345000
+    },
+    "pts": [
+        {
+            "lat": 332706272,
+            "lon": -1119705645,
+            "elev": 345000
+        },
+        {
+            "lat": 332674675,
+            "lon": -1119681009,
+            "elev": 349000
+        }
+    ]
+}

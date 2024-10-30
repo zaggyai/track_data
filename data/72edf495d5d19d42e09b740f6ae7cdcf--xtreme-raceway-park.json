@@ -1,0 +1,21 @@
+{
+    "name": "Xtreme Raceway Park",
+    "short_name": "Xtreme DW",
+    "start_finish": {
+        "lat": 324926654,
+        "lon": -966626612,
+        "elev": 141000
+    },
+    "pts": [
+        {
+            "lat": 324926654,
+            "lon": -966626612,
+            "elev": 141000
+        },
+        {
+            "lat": 324936496,
+            "lon": -966606691,
+            "elev": 141000
+        }
+    ]
+}

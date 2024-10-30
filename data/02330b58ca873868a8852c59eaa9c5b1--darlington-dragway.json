@@ -1,0 +1,21 @@
+{
+    "name": "Darlington Dragway",
+    "short_name": "DarlingtonDW",
+    "start_finish": {
+        "lat": 343071964,
+        "lon": -799939591,
+        "elev": 53000
+    },
+    "pts": [
+        {
+            "lat": 343071964,
+            "lon": -799939591,
+            "elev": 53000
+        },
+        {
+            "lat": 343108877,
+            "lon": -799930036,
+            "elev": 56000
+        }
+    ]
+}

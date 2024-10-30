@@ -1,0 +1,21 @@
+{
+    "name": "Evadale Raceway",
+    "short_name": "Evadale",
+    "start_finish": {
+        "lat": 303263481,
+        "lon": -940763612,
+        "elev": 19000
+    },
+    "pts": [
+        {
+            "lat": 303263481,
+            "lon": -940763612,
+            "elev": 19000
+        },
+        {
+            "lat": 303229311,
+            "lon": -940745093,
+            "elev": 17000
+        }
+    ]
+}

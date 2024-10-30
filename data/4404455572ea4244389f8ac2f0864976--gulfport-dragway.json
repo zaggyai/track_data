@@ -1,0 +1,21 @@
+{
+    "name": "Gulfport Dragway",
+    "short_name": "Gulfport DW",
+    "start_finish": {
+        "lat": 304027865,
+        "lon": -891229746,
+        "elev": 6000
+    },
+    "pts": [
+        {
+            "lat": 304027865,
+            "lon": -891229746,
+            "elev": 6000
+        },
+        {
+            "lat": 304065253,
+            "lon": -891223997,
+            "elev": 8000
+        }
+    ]
+}

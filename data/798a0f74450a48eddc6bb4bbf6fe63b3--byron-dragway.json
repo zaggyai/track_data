@@ -1,0 +1,21 @@
+{
+    "name": "Byron Dragway",
+    "short_name": "Byron Drag",
+    "start_finish": {
+        "lat": 421160007,
+        "lon": -892742335,
+        "elev": 216000
+    },
+    "pts": [
+        {
+            "lat": 421160007,
+            "lon": -892742335,
+            "elev": 216000
+        },
+        {
+            "lat": 421122283,
+            "lon": -892741632,
+            "elev": 217000
+        }
+    ]
+}

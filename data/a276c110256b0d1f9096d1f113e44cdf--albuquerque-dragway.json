@@ -1,0 +1,21 @@
+{
+    "name": "Albuquerque Dragway",
+    "short_name": "ABQD DW",
+    "start_finish": {
+        "lat": 350070706,
+        "lon": -1066165767,
+        "elev": 1616000
+    },
+    "pts": [
+        {
+            "lat": 350070706,
+            "lon": -1066165767,
+            "elev": 1616000
+        },
+        {
+            "lat": 350071296,
+            "lon": -1066119824,
+            "elev": 1615000
+        }
+    ]
+}

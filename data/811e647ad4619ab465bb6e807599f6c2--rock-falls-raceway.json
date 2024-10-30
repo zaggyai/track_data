@@ -1,0 +1,21 @@
+{
+    "name": "Rock Falls Raceway",
+    "short_name": "RockFalls DW",
+    "start_finish": {
+        "lat": 447441086,
+        "lon": -916544430,
+        "elev": 253000
+    },
+    "pts": [
+        {
+            "lat": 447441086,
+            "lon": -916544430,
+            "elev": 253000
+        },
+        {
+            "lat": 447436517,
+            "lon": -916491881,
+            "elev": 255000
+        }
+    ]
+}

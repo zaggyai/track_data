@@ -1,0 +1,21 @@
+{
+    "name": "Sokol Race Track",
+    "short_name": "Sokol DW",
+    "start_finish": {
+        "lat": 435873413,
+        "lon": 765793370,
+        "elev": 647000
+    },
+    "pts": [
+        {
+            "lat": 435873413,
+            "lon": 765793370,
+            "elev": 647000
+        },
+        {
+            "lat": 435883172,
+            "lon": 765743279,
+            "elev": 646000
+        }
+    ]
+}

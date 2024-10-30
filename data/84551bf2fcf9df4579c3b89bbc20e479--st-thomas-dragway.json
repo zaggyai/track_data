@@ -1,0 +1,21 @@
+{
+    "name": "St. Thomas Dragway",
+    "short_name": "St Thomas DW",
+    "start_finish": {
+        "lat": 427021249,
+        "lon": -810998900,
+        "elev": -32768000
+    },
+    "pts": [
+        {
+            "lat": 427021249,
+            "lon": -810998900,
+            "elev": -32768000
+        },
+        {
+            "lat": 427001712,
+            "lon": -810999875,
+            "elev": -32768000
+        }
+    ]
+}

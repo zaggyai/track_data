@@ -1,0 +1,21 @@
+{
+    "name": "Pine Valley Raceway",
+    "short_name": "PineValleyDW",
+    "start_finish": {
+        "lat": 312490346,
+        "lon": -948039183,
+        "elev": 55000
+    },
+    "pts": [
+        {
+            "lat": 312490346,
+            "lon": -948039183,
+            "elev": 55000
+        },
+        {
+            "lat": 312467858,
+            "lon": -948074512,
+            "elev": 57000
+        }
+    ]
+}

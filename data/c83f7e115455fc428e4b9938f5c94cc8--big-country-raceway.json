@@ -1,0 +1,21 @@
+{
+    "name": "Big Country Raceway",
+    "short_name": "BigC DW",
+    "start_finish": {
+        "lat": 324736491,
+        "lon": -997958614,
+        "elev": 523000
+    },
+    "pts": [
+        {
+            "lat": 324736491,
+            "lon": -997958614,
+            "elev": 523000
+        },
+        {
+            "lat": 324741691,
+            "lon": -997936344,
+            "elev": 528000
+        }
+    ]
+}

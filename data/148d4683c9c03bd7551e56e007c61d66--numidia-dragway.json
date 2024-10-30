@@ -1,0 +1,21 @@
+{
+    "name": "Numidia Dragway",
+    "short_name": "Numidia DW",
+    "start_finish": {
+        "lat": 408887905,
+        "lon": -763998969,
+        "elev": 287000
+    },
+    "pts": [
+        {
+            "lat": 408887905,
+            "lon": -763998969,
+            "elev": 287000
+        },
+        {
+            "lat": 408924223,
+            "lon": -764012622,
+            "elev": 293000
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Yellowstone Drag Strip",
+    "short_name": "Yllowstne DW",
+    "start_finish": {
+        "lat": 459346100,
+        "lon": -1087537915,
+        "elev": 1158000
+    },
+    "pts": [
+        {
+            "lat": 459346100,
+            "lon": -1087537915,
+            "elev": 1158000
+        },
+        {
+            "lat": 459345844,
+            "lon": -1087483891,
+            "elev": 1153000
+        }
+    ]
+}

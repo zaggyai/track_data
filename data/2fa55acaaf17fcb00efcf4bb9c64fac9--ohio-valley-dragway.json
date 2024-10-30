@@ -1,0 +1,21 @@
+{
+    "name": "Ohio Valley Dragway",
+    "short_name": "OhioValleyDW",
+    "start_finish": {
+        "lat": 380030762,
+        "lon": -859329991,
+        "elev": 131000
+    },
+    "pts": [
+        {
+            "lat": 380030762,
+            "lon": -859329991,
+            "elev": 131000
+        },
+        {
+            "lat": 380044176,
+            "lon": -859311955,
+            "elev": 129000
+        }
+    ]
+}

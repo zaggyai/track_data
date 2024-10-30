@@ -1,0 +1,21 @@
+{
+    "name": "Central Illinois Dragway",
+    "short_name": "IL CentralDW",
+    "start_finish": {
+        "lat": 402340922,
+        "lon": -900541768,
+        "elev": 149000
+    },
+    "pts": [
+        {
+            "lat": 402340922,
+            "lon": -900541768,
+            "elev": 149000
+        },
+        {
+            "lat": 402322706,
+            "lon": -900532604,
+            "elev": 148000
+        }
+    ]
+}

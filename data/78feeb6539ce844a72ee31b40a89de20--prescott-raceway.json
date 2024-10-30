@@ -1,0 +1,21 @@
+{
+    "name": "Prescott Raceway",
+    "short_name": "Prescott DW",
+    "start_finish": {
+        "lat": 337881313,
+        "lon": -931615397,
+        "elev": 56000
+    },
+    "pts": [
+        {
+            "lat": 337881313,
+            "lon": -931615397,
+            "elev": 56000
+        },
+        {
+            "lat": 337873670,
+            "lon": -931637012,
+            "elev": 58000
+        }
+    ]
+}

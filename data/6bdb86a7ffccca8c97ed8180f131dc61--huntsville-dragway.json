@@ -1,0 +1,21 @@
+{
+    "name": "Huntsville Dragway",
+    "short_name": "HuntsvilleDW",
+    "start_finish": {
+        "lat": 348525614,
+        "lon": -867046853,
+        "elev": 248000
+    },
+    "pts": [
+        {
+            "lat": 348525614,
+            "lon": -867046853,
+            "elev": 248000
+        },
+        {
+            "lat": 348545134,
+            "lon": -867046614,
+            "elev": 250000
+        }
+    ]
+}

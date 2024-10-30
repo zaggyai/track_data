@@ -1,0 +1,21 @@
+{
+    "name": "Ware Shoals Dragway",
+    "short_name": "WareShoalsDW",
+    "start_finish": {
+        "lat": 344555980,
+        "lon": -822520273,
+        "elev": 224000
+    },
+    "pts": [
+        {
+            "lat": 344555980,
+            "lon": -822520273,
+            "elev": 224000
+        },
+        {
+            "lat": 344552666,
+            "lon": -822543667,
+            "elev": 218000
+        }
+    ]
+}

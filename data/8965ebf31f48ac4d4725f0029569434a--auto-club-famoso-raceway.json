@@ -1,0 +1,21 @@
+{
+    "name": "Auto Club Famoso Raceway",
+    "short_name": "Famoso DW",
+    "start_finish": {
+        "lat": 356000100,
+        "lon": -1191354739,
+        "elev": 189000
+    },
+    "pts": [
+        {
+            "lat": 356000100,
+            "lon": -1191354739,
+            "elev": 189000
+        },
+        {
+            "lat": 355962381,
+            "lon": -1191354780,
+            "elev": 186000
+        }
+    ]
+}

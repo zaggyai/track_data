@@ -1,0 +1,21 @@
+{
+    "name": "Eastbound International Dragway",
+    "short_name": "Eastbound DW",
+    "start_finish": {
+        "lat": 473704453,
+        "lon": -532386114,
+        "elev": 94000
+    },
+    "pts": [
+        {
+            "lat": 473704453,
+            "lon": -532386114,
+            "elev": 94000
+        },
+        {
+            "lat": 473722090,
+            "lon": -532373307,
+            "elev": 99000
+        }
+    ]
+}

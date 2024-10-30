@@ -1,0 +1,21 @@
+{
+    "name": "Rockingham Dragway",
+    "short_name": "RockinghamD",
+    "start_finish": {
+        "lat": 349794303,
+        "lon": -796130853,
+        "elev": 137000
+    },
+    "pts": [
+        {
+            "lat": 349794303,
+            "lon": -796130853,
+            "elev": 137000
+        },
+        {
+            "lat": 349793466,
+            "lon": -796176713,
+            "elev": 130000
+        }
+    ]
+}

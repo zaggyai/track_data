@@ -1,0 +1,21 @@
+{
+    "name": "Madras Dragstrip",
+    "short_name": "Madras DW",
+    "start_finish": {
+        "lat": 446556909,
+        "lon": -1211623079,
+        "elev": 742000
+    },
+    "pts": [
+        {
+            "lat": 446556909,
+            "lon": -1211623079,
+            "elev": 742000
+        },
+        {
+            "lat": 446570803,
+            "lon": -1211642438,
+            "elev": 744000
+        }
+    ]
+}

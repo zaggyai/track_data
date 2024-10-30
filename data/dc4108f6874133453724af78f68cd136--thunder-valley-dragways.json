@@ -1,0 +1,21 @@
+{
+    "name": "Thunder Valley Dragways",
+    "short_name": "SD ThunderDW",
+    "start_finish": {
+        "lat": 434145128,
+        "lon": -972068747,
+        "elev": 413000
+    },
+    "pts": [
+        {
+            "lat": 434145128,
+            "lon": -972068747,
+            "elev": 413000
+        },
+        {
+            "lat": 434146582,
+            "lon": -972120408,
+            "elev": 417000
+        }
+    ]
+}

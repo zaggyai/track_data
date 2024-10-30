@@ -1,0 +1,21 @@
+{
+    "name": "GALOT Motorsports Park",
+    "short_name": "GALOT DW",
+    "start_finish": {
+        "lat": 353256601,
+        "lon": -785109993,
+        "elev": 65000
+    },
+    "pts": [
+        {
+            "lat": 353256601,
+            "lon": -785109993,
+            "elev": 65000
+        },
+        {
+            "lat": 353219050,
+            "lon": -785115195,
+            "elev": 75000
+        }
+    ]
+}

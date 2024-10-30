@@ -1,0 +1,21 @@
+{
+    "name": "Cecil County Dragway",
+    "short_name": "CecilCountyD",
+    "start_finish": {
+        "lat": 396393838,
+        "lon": -759914373,
+        "elev": 105000
+    },
+    "pts": [
+        {
+            "lat": 396393838,
+            "lon": -759914373,
+            "elev": 105000
+        },
+        {
+            "lat": 396372534,
+            "lon": -759874095,
+            "elev": 97000
+        }
+    ]
+}

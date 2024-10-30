@@ -1,0 +1,21 @@
+{
+    "name": "Tierp Arena",
+    "short_name": "Tierp DW",
+    "start_finish": {
+        "lat": 603356226,
+        "lon": 174273061,
+        "elev": 42000
+    },
+    "pts": [
+        {
+            "lat": 603356226,
+            "lon": 174273061,
+            "elev": 42000
+        },
+        {
+            "lat": 603392369,
+            "lon": 174251911,
+            "elev": 42000
+        }
+    ]
+}

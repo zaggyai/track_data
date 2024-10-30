@@ -1,0 +1,21 @@
+{
+    "name": "Sturgis Dragway",
+    "short_name": "Sturgis DW",
+    "start_finish": {
+        "lat": 444269053,
+        "lon": -1034306496,
+        "elev": 964000
+    },
+    "pts": [
+        {
+            "lat": 444269053,
+            "lon": -1034306496,
+            "elev": 964000
+        },
+        {
+            "lat": 444260714,
+            "lon": -1034331227,
+            "elev": 964000
+        }
+    ]
+}

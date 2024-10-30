@@ -1,0 +1,21 @@
+{
+    "name": "Kearney Raceway Park",
+    "short_name": "Kearney DW",
+    "start_finish": {
+        "lat": 407281413,
+        "lon": -989891695,
+        "elev": 649000
+    },
+    "pts": [
+        {
+            "lat": 407281413,
+            "lon": -989891695,
+            "elev": 649000
+        },
+        {
+            "lat": 407311275,
+            "lon": -989921943,
+            "elev": 648000
+        }
+    ]
+}

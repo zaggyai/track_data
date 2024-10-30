@@ -1,0 +1,21 @@
+{
+    "name": "Hobbs Airfield Speedway",
+    "short_name": "HMP DW",
+    "start_finish": {
+        "lat": 327581559,
+        "lon": -1032049517,
+        "elev": 1122000
+    },
+    "pts": [
+        {
+            "lat": 327581559,
+            "lon": -1032049517,
+            "elev": 1122000
+        },
+        {
+            "lat": 327581735,
+            "lon": -1032094228,
+            "elev": 1126000
+        }
+    ]
+}

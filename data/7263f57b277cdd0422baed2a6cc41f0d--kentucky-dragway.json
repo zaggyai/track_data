@@ -1,0 +1,21 @@
+{
+    "name": "Kentucky Dragway",
+    "short_name": "Kentucky DW",
+    "start_finish": {
+        "lat": 378460259,
+        "lon": -839160380,
+        "elev": 194000
+    },
+    "pts": [
+        {
+            "lat": 378460259,
+            "lon": -839160380,
+            "elev": 194000
+        },
+        {
+            "lat": 378441081,
+            "lon": -839119251,
+            "elev": 195000
+        }
+    ]
+}

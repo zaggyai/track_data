@@ -1,0 +1,21 @@
+{
+    "name": "Alien City Dragway",
+    "short_name": "AlienCity DW",
+    "start_finish": {
+        "lat": 333026288,
+        "lon": -1045073935,
+        "elev": 1106000
+    },
+    "pts": [
+        {
+            "lat": 333026288,
+            "lon": -1045073935,
+            "elev": 1106000
+        },
+        {
+            "lat": 332988549,
+            "lon": -1045074102,
+            "elev": 1103000
+        }
+    ]
+}

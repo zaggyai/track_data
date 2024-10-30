@@ -1,0 +1,21 @@
+{
+    "name": "Samoa Dragstrip",
+    "short_name": "Samoa DW",
+    "start_finish": {
+        "lat": 407808544,
+        "lon": -1242107421,
+        "elev": 1000
+    },
+    "pts": [
+        {
+            "lat": 407808544,
+            "lon": -1242107421,
+            "elev": 1000
+        },
+        {
+            "lat": 407846204,
+            "lon": -1242107029,
+            "elev": 4000
+        }
+    ]
+}

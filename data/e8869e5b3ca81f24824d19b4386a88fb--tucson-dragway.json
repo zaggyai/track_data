@@ -1,0 +1,21 @@
+{
+    "name": "Tucson Dragway",
+    "short_name": "TucsonDrag",
+    "start_finish": {
+        "lat": 320355534,
+        "lon": -1107752705,
+        "elev": 939000
+    },
+    "pts": [
+        {
+            "lat": 320355534,
+            "lon": -1107752705,
+            "elev": 939000
+        },
+        {
+            "lat": 320393288,
+            "lon": -1107752273,
+            "elev": 947000
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Houston Motorsports Park",
+    "short_name": "HMP DW 1/8",
+    "start_finish": {
+        "lat": 298883176,
+        "lon": -952287998,
+        "elev": 17000
+    },
+    "pts": [
+        {
+            "lat": 298883176,
+            "lon": -952287998,
+            "elev": 17000
+        },
+        {
+            "lat": 298902952,
+            "lon": -952288138,
+            "elev": 19000
+        }
+    ]
+}

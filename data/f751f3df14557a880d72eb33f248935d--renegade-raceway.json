@@ -1,0 +1,21 @@
+{
+    "name": "Renegade Raceway",
+    "short_name": "Renegade DW",
+    "start_finish": {
+        "lat": 464953261,
+        "lon": -1204465242,
+        "elev": 273000
+    },
+    "pts": [
+        {
+            "lat": 464953261,
+            "lon": -1204465242,
+            "elev": 273000
+        },
+        {
+            "lat": 464915829,
+            "lon": -1204459011,
+            "elev": 269000
+        }
+    ]
+}

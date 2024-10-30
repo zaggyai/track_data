@@ -1,0 +1,21 @@
+{
+    "name": "Mooresville Dragway",
+    "short_name": "MooresvilleD",
+    "start_finish": {
+        "lat": 355644961,
+        "lon": -807340298,
+        "elev": 238000
+    },
+    "pts": [
+        {
+            "lat": 355644961,
+            "lon": -807340298,
+            "elev": 238000
+        },
+        {
+            "lat": 355625830,
+            "lon": -807335131,
+            "elev": 239000
+        }
+    ]
+}

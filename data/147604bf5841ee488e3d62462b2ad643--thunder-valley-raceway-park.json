@@ -1,0 +1,21 @@
+{
+    "name": "Thunder Valley Raceway Park",
+    "short_name": "TVRP DW",
+    "start_finish": {
+        "lat": 350912857,
+        "lon": -973725271,
+        "elev": 325000
+    },
+    "pts": [
+        {
+            "lat": 350912857,
+            "lon": -973725271,
+            "elev": 325000
+        },
+        {
+            "lat": 350920959,
+            "lon": -973770075,
+            "elev": 324000
+        }
+    ]
+}

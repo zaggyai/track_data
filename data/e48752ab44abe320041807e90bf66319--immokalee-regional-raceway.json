@@ -1,0 +1,21 @@
+{
+    "name": "Immokalee Regional Raceway",
+    "short_name": "Immokalee DW",
+    "start_finish": {
+        "lat": 264281945,
+        "lon": -814032029,
+        "elev": 14000
+    },
+    "pts": [
+        {
+            "lat": 264281945,
+            "lon": -814032029,
+            "elev": 14000
+        },
+        {
+            "lat": 264297757,
+            "lon": -814019108,
+            "elev": 13000
+        }
+    ]
+}

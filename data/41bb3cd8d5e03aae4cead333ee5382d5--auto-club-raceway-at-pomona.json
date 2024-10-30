@@ -1,0 +1,21 @@
+{
+    "name": "Auto Club Raceway at Pomona",
+    "short_name": "Pomona DW",
+    "start_finish": {
+        "lat": 340950361,
+        "lon": -1177697488,
+        "elev": 316000
+    },
+    "pts": [
+        {
+            "lat": 340950361,
+            "lon": -1177697488,
+            "elev": 316000
+        },
+        {
+            "lat": 340918174,
+            "lon": -1177721195,
+            "elev": 313000
+        }
+    ]
+}

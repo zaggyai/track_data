@@ -1,0 +1,21 @@
+{
+    "name": "Spokane County Raceway",
+    "short_name": "Spokane DW",
+    "start_finish": {
+        "lat": 476594205,
+        "lon": -1175732818,
+        "elev": 718000
+    },
+    "pts": [
+        {
+            "lat": 476594205,
+            "lon": -1175732818,
+            "elev": 718000
+        },
+        {
+            "lat": 476628264,
+            "lon": -1175708910,
+            "elev": 711000
+        }
+    ]
+}

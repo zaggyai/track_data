@@ -1,0 +1,21 @@
+{
+    "name": "Miramichi Dragway Park",
+    "short_name": "Miramichi DW",
+    "start_finish": {
+        "lat": 470058703,
+        "lon": -654484530,
+        "elev": 27000
+    },
+    "pts": [
+        {
+            "lat": 470058703,
+            "lon": -654484530,
+            "elev": 27000
+        },
+        {
+            "lat": 470033222,
+            "lon": -654444072,
+            "elev": 24000
+        }
+    ]
+}

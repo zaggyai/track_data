@@ -1,0 +1,21 @@
+{
+    "name": "Atmore Dragway",
+    "short_name": "AtmoreDrag",
+    "start_finish": {
+        "lat": 311012096,
+        "lon": -875006296,
+        "elev": 88000
+    },
+    "pts": [
+        {
+            "lat": 311012096,
+            "lon": -875006296,
+            "elev": 88000
+        },
+        {
+            "lat": 311012234,
+            "lon": -874983503,
+            "elev": 88000
+        }
+    ]
+}

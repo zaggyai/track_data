@@ -1,0 +1,21 @@
+{
+    "name": "Osceola Dragway",
+    "short_name": "Osceola DW",
+    "start_finish": {
+        "lat": 416756829,
+        "lon": -860600322,
+        "elev": 224000
+    },
+    "pts": [
+        {
+            "lat": 416756829,
+            "lon": -860600322,
+            "elev": 224000
+        },
+        {
+            "lat": 416757418,
+            "lon": -860574225,
+            "elev": 224000
+        }
+    ]
+}

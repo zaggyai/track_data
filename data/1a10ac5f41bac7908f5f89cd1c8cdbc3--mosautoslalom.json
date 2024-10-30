@@ -1,0 +1,21 @@
+{
+    "name": "MosAutoSlalom",
+    "short_name": "MosAuto DW",
+    "start_finish": {
+        "lat": 556188314,
+        "lon": 380505841,
+        "elev": 124000
+    },
+    "pts": [
+        {
+            "lat": 556188314,
+            "lon": 380505841,
+            "elev": 124000
+        },
+        {
+            "lat": 556175951,
+            "lon": 380568478,
+            "elev": 122000
+        }
+    ]
+}

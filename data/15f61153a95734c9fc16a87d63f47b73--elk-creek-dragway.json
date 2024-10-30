@@ -1,0 +1,21 @@
+{
+    "name": "Elk Creek Dragway",
+    "short_name": "ElkCreek DW",
+    "start_finish": {
+        "lat": 367239191,
+        "lon": -811768357,
+        "elev": 786000
+    },
+    "pts": [
+        {
+            "lat": 367239191,
+            "lon": -811768357,
+            "elev": 786000
+        },
+        {
+            "lat": 367257912,
+            "lon": -811775329,
+            "elev": 790000
+        }
+    ]
+}

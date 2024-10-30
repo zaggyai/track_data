@@ -1,0 +1,21 @@
+{
+    "name": "Puerto Rico International Speedway - Salinas Speedway",
+    "short_name": "Salinas",
+    "start_finish": {
+        "lat": 179696031,
+        "lon": -662618802,
+        "elev": 12000
+    },
+    "pts": [
+        {
+            "lat": 179696031,
+            "lon": -662618802,
+            "elev": 12000
+        },
+        {
+            "lat": 179704443,
+            "lon": -662657468,
+            "elev": 12000
+        }
+    ]
+}

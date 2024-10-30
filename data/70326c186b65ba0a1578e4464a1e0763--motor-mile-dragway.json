@@ -1,0 +1,21 @@
+{
+    "name": "Motor Mile Dragway",
+    "short_name": "MotorMile DW",
+    "start_finish": {
+        "lat": 371419932,
+        "lon": -806117246,
+        "elev": 574000
+    },
+    "pts": [
+        {
+            "lat": 371419932,
+            "lon": -806117246,
+            "elev": 574000
+        },
+        {
+            "lat": 371424124,
+            "lon": -806141204,
+            "elev": 588000
+        }
+    ]
+}

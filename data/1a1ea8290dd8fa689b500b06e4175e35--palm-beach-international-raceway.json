@@ -1,0 +1,21 @@
+{
+    "name": "Palm Beach International Raceway",
+    "short_name": "PBIR DW",
+    "start_finish": {
+        "lat": 269175179,
+        "lon": -803053970,
+        "elev": 13000
+    },
+    "pts": [
+        {
+            "lat": 269175179,
+            "lon": -803053970,
+            "elev": 13000
+        },
+        {
+            "lat": 269212867,
+            "lon": -803050687,
+            "elev": 7000
+        }
+    ]
+}

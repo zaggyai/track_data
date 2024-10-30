@@ -1,0 +1,21 @@
+{
+    "name": "Sydney Dragway",
+    "short_name": "Sydney DW",
+    "start_finish": {
+        "lat": -338120785,
+        "lon": 1508717714,
+        "elev": 77000
+    },
+    "pts": [
+        {
+            "lat": -338120785,
+            "lon": 1508717714,
+            "elev": 77000
+        },
+        {
+            "lat": -338158080,
+            "lon": 1508711058,
+            "elev": 69000
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Sumerduck Dragway",
+    "short_name": "Sumerduck DW",
+    "start_finish": {
+        "lat": 384580829,
+        "lon": -777028356,
+        "elev": 95000
+    },
+    "pts": [
+        {
+            "lat": 384580829,
+            "lon": -777028356,
+            "elev": 95000
+        },
+        {
+            "lat": 384571297,
+            "lon": -777050156,
+            "elev": 90000
+        }
+    ]
+}

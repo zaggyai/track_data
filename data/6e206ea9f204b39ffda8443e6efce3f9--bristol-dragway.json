@@ -1,0 +1,21 @@
+{
+    "name": "Bristol Dragway",
+    "short_name": "Bristol DW",
+    "start_finish": {
+        "lat": 365164704,
+        "lon": -822500015,
+        "elev": 454000
+    },
+    "pts": [
+        {
+            "lat": 365164704,
+            "lon": -822500015,
+            "elev": 454000
+        },
+        {
+            "lat": 365192026,
+            "lon": -822467659,
+            "elev": 454000
+        }
+    ]
+}

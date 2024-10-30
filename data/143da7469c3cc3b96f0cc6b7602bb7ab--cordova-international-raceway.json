@@ -1,0 +1,21 @@
+{
+    "name": "Cordova International Raceway",
+    "short_name": "CIR DW",
+    "start_finish": {
+        "lat": 417171434,
+        "lon": -902984054,
+        "elev": 188000
+    },
+    "pts": [
+        {
+            "lat": 417171434,
+            "lon": -902984054,
+            "elev": 188000
+        },
+        {
+            "lat": 417172414,
+            "lon": -902933758,
+            "elev": 189000
+        }
+    ]
+}

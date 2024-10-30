@@ -1,0 +1,21 @@
+{
+    "name": "Keystone Raceway Park",
+    "short_name": "Keystone DW",
+    "start_finish": {
+        "lat": 404061333,
+        "lon": -793971468,
+        "elev": 361000
+    },
+    "pts": [
+        {
+            "lat": 404061333,
+            "lon": -793971468,
+            "elev": 361000
+        },
+        {
+            "lat": 404023854,
+            "lon": -793966219,
+            "elev": 357000
+        }
+    ]
+}

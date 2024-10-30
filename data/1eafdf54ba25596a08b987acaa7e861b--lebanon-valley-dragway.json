@@ -1,0 +1,21 @@
+{
+    "name": "Lebanon Valley Dragway",
+    "short_name": "Lebanon DW",
+    "start_finish": {
+        "lat": 424914871,
+        "lon": -734837423,
+        "elev": 185000
+    },
+    "pts": [
+        {
+            "lat": 424914871,
+            "lon": -734837423,
+            "elev": 185000
+        },
+        {
+            "lat": 424927220,
+            "lon": -734885643,
+            "elev": 185000
+        }
+    ]
+}

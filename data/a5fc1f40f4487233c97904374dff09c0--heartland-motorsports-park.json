@@ -1,0 +1,21 @@
+{
+    "name": "Heartland Motorsports Park",
+    "short_name": "HMP Dragway",
+    "start_finish": {
+        "lat": 389307940,
+        "lon": -956778029,
+        "elev": 334000
+    },
+    "pts": [
+        {
+            "lat": 389307940,
+            "lon": -956778029,
+            "elev": 334000
+        },
+        {
+            "lat": 389270650,
+            "lon": -956771011,
+            "elev": 329000
+        }
+    ]
+}

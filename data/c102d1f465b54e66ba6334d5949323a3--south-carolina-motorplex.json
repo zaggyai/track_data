@@ -1,0 +1,21 @@
+{
+    "name": "South Carolina Motorplex",
+    "short_name": "SCarolina DW",
+    "start_finish": {
+        "lat": 335244177,
+        "lon": -809820542,
+        "elev": 81000
+    },
+    "pts": [
+        {
+            "lat": 335244177,
+            "lon": -809820542,
+            "elev": 81000
+        },
+        {
+            "lat": 335252304,
+            "lon": -809799277,
+            "elev": 77000
+        }
+    ]
+}

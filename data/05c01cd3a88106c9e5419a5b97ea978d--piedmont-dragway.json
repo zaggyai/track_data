@@ -1,0 +1,21 @@
+{
+    "name": "Piedmont Dragway",
+    "short_name": "Piedmont DW",
+    "start_finish": {
+        "lat": 359959316,
+        "lon": -795930099,
+        "elev": 216000
+    },
+    "pts": [
+        {
+            "lat": 359959316,
+            "lon": -795930099,
+            "elev": 216000
+        },
+        {
+            "lat": 359948129,
+            "lon": -795910216,
+            "elev": 214000
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Coastal Plains Dragway",
+    "short_name": "CstalPlnsDW",
+    "start_finish": {
+        "lat": 348071680,
+        "lon": -775017506,
+        "elev": 13000
+    },
+    "pts": [
+        {
+            "lat": 348071680,
+            "lon": -775017506,
+            "elev": 13000
+        },
+        {
+            "lat": 348097507,
+            "lon": -774984175,
+            "elev": 11000
+        }
+    ]
+}

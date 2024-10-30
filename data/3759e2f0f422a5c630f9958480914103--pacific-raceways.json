@@ -1,0 +1,21 @@
+{
+    "name": "Pacific Raceways",
+    "short_name": "Pacific DW",
+    "start_finish": {
+        "lat": 473202868,
+        "lon": -1221383385,
+        "elev": 91000
+    },
+    "pts": [
+        {
+            "lat": 473202868,
+            "lon": -1221383385,
+            "elev": 91000
+        },
+        {
+            "lat": 473206736,
+            "lon": -1221438536,
+            "elev": 90000
+        }
+    ]
+}

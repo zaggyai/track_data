@@ -1,0 +1,21 @@
+{
+    "name": "Mason Dixon Dragway",
+    "short_name": "MasonDixonD",
+    "start_finish": {
+        "lat": 395659336,
+        "lon": -776415295,
+        "elev": 163000
+    },
+    "pts": [
+        {
+            "lat": 395659336,
+            "lon": -776415295,
+            "elev": 163000
+        },
+        {
+            "lat": 395637460,
+            "lon": -776375255,
+            "elev": 157000
+        }
+    ]
+}

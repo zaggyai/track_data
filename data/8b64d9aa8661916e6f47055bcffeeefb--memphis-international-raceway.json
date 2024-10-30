@@ -1,0 +1,21 @@
+{
+    "name": "Memphis International Raceway",
+    "short_name": "Memphis DW",
+    "start_finish": {
+        "lat": 352751382,
+        "lon": -899412901,
+        "elev": 73000
+    },
+    "pts": [
+        {
+            "lat": 352751382,
+            "lon": -899412901,
+            "elev": 73000
+        },
+        {
+            "lat": 352788894,
+            "lon": -899407545,
+            "elev": 78000
+        }
+    ]
+}

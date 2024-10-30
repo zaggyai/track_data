@@ -1,0 +1,21 @@
+{
+    "name": "Cedar Falls Motorsports Park",
+    "short_name": "CFMP DW",
+    "start_finish": {
+        "lat": 425997215,
+        "lon": -924592935,
+        "elev": 271000
+    },
+    "pts": [
+        {
+            "lat": 425997215,
+            "lon": -924592935,
+            "elev": 271000
+        },
+        {
+            "lat": 426034843,
+            "lon": -924592908,
+            "elev": 271000
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Music City Raceway",
+    "short_name": "Music City D",
+    "start_finish": {
+        "lat": 363491801,
+        "lon": -867990047,
+        "elev": 280000
+    },
+    "pts": [
+        {
+            "lat": 363491801,
+            "lon": -867990047,
+            "elev": 280000
+        },
+        {
+            "lat": 363494819,
+            "lon": -868014017,
+            "elev": 276000
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Amarillo Dragway",
+    "short_name": "Amarillo DW",
+    "start_finish": {
+        "lat": 350784212,
+        "lon": -1018283899,
+        "elev": 1099000
+    },
+    "pts": [
+        {
+            "lat": 350784212,
+            "lon": -1018283899,
+            "elev": 1099000
+        },
+        {
+            "lat": 350784303,
+            "lon": -1018260086,
+            "elev": 1096000
+        }
+    ]
+}

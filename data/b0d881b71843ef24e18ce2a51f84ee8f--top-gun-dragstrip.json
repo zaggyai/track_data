@@ -1,0 +1,21 @@
+{
+    "name": "Top Gun Dragstrip",
+    "short_name": "TopGun DW",
+    "start_finish": {
+        "lat": 392577992,
+        "lon": -1187890923,
+        "elev": 1228000
+    },
+    "pts": [
+        {
+            "lat": 392577992,
+            "lon": -1187890923,
+            "elev": 1228000
+        },
+        {
+            "lat": 392578172,
+            "lon": -1187842320,
+            "elev": 1227000
+        }
+    ]
+}

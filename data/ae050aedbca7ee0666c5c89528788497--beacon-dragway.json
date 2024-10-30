@@ -1,0 +1,21 @@
+{
+    "name": "Beacon Dragway",
+    "short_name": "Beacon DW",
+    "start_finish": {
+        "lat": 369700828,
+        "lon": -885618274,
+        "elev": 101000
+    },
+    "pts": [
+        {
+            "lat": 369700828,
+            "lon": -885618274,
+            "elev": 101000
+        },
+        {
+            "lat": 369687550,
+            "lon": -885636169,
+            "elev": 99000
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Virginia Motorsports Park",
+    "short_name": "VMP DW",
+    "start_finish": {
+        "lat": 371666639,
+        "lon": -775227611,
+        "elev": 59000
+    },
+    "pts": [
+        {
+            "lat": 371666639,
+            "lon": -775227611,
+            "elev": 59000
+        },
+        {
+            "lat": 371682065,
+            "lon": -775270627,
+            "elev": 58000
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Silver Dollar Motorsports Park",
+    "short_name": "SilverDollar",
+    "start_finish": {
+        "lat": 325575244,
+        "lon": -841236478,
+        "elev": 137000
+    },
+    "pts": [
+        {
+            "lat": 325575244,
+            "lon": -841236478,
+            "elev": 137000
+        },
+        {
+            "lat": 325574722,
+            "lon": -841191811,
+            "elev": 141000
+        }
+    ]
+}

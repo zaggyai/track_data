@@ -1,0 +1,21 @@
+{
+    "name": "Kil-Kare Raceway",
+    "short_name": "KilKare DW",
+    "start_finish": {
+        "lat": 397039062,
+        "lon": -839671097,
+        "elev": 248000
+    },
+    "pts": [
+        {
+            "lat": 397039062,
+            "lon": -839671097,
+            "elev": 248000
+        },
+        {
+            "lat": 397063130,
+            "lon": -839708671,
+            "elev": 245000
+        }
+    ]
+}

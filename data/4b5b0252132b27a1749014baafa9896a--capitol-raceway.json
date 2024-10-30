@@ -1,0 +1,21 @@
+{
+    "name": "Capitol Raceway",
+    "short_name": "Capitol DW",
+    "start_finish": {
+        "lat": 390311885,
+        "lon": -767003267,
+        "elev": 39000
+    },
+    "pts": [
+        {
+            "lat": 390311885,
+            "lon": -767003267,
+            "elev": 39000
+        },
+        {
+            "lat": 390342880,
+            "lon": -767030785,
+            "elev": 41000
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Woodburn Dragstrip",
+    "short_name": "Woodburn DW",
+    "start_finish": {
+        "lat": 451559528,
+        "lon": -1229068755,
+        "elev": 54000
+    },
+    "pts": [
+        {
+            "lat": 451559528,
+            "lon": -1229068755,
+            "elev": 54000
+        },
+        {
+            "lat": 451523398,
+            "lon": -1229084054,
+            "elev": 55000
+        }
+    ]
+}

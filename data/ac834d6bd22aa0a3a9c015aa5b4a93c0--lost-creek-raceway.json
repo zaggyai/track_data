@@ -1,0 +1,21 @@
+{
+    "name": "Lost Creek Raceway",
+    "short_name": "LostCreek DW",
+    "start_finish": {
+        "lat": 461346770,
+        "lon": -1129038391,
+        "elev": 1562000
+    },
+    "pts": [
+        {
+            "lat": 461346770,
+            "lon": -1129038391,
+            "elev": 1562000
+        },
+        {
+            "lat": 461364994,
+            "lon": -1129027822,
+            "elev": 1562000
+        }
+    ]
+}

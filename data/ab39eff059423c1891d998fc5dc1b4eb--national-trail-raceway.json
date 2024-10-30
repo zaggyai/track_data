@@ -1,0 +1,21 @@
+{
+    "name": "National Trail Raceway",
+    "short_name": "NtlTrailDW",
+    "start_finish": {
+        "lat": 399585254,
+        "lon": -825466235,
+        "elev": 272000
+    },
+    "pts": [
+        {
+            "lat": 399585254,
+            "lon": -825466235,
+            "elev": 272000
+        },
+        {
+            "lat": 399616787,
+            "lon": -825493217,
+            "elev": 271000
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Route 66 Raceway",
+    "short_name": "Route66 Drag",
+    "start_finish": {
+        "lat": 414640865,
+        "lon": -880759974,
+        "elev": 193000
+    },
+    "pts": [
+        {
+            "lat": 414640865,
+            "lon": -880759974,
+            "elev": 193000
+        },
+        {
+            "lat": 414642069,
+            "lon": -880709876,
+            "elev": 196000
+        }
+    ]
+}
