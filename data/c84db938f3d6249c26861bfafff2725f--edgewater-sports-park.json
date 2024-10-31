@@ -1,0 +1,21 @@
+{
+    "name": "Edgewater Sports Park",
+    "short_name": "Edgewater DW",
+    "start_finish": {
+        "lat": 392014956,
+        "lon": -847445490,
+        "elev": 151000
+    },
+    "pts": [
+        {
+            "lat": 392014956,
+            "lon": -847445490,
+            "elev": 151000
+        },
+        {
+            "lat": 392001457,
+            "lon": -847490763,
+            "elev": 147000
+        }
+    ]
+}

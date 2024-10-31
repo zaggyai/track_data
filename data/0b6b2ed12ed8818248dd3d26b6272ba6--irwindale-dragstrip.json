@@ -1,0 +1,21 @@
+{
+    "name": "Irwindale Dragstrip",
+    "short_name": "Irwindale DW",
+    "start_finish": {
+        "lat": 341069635,
+        "lon": -1179832355,
+        "elev": 116000
+    },
+    "pts": [
+        {
+            "lat": 341069635,
+            "lon": -1179832355,
+            "elev": 116000
+        },
+        {
+            "lat": 341076983,
+            "lon": -1179854184,
+            "elev": 116000
+        }
+    ]
+}

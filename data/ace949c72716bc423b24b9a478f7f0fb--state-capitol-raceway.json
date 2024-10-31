@@ -1,0 +1,21 @@
+{
+    "name": "State Capitol Raceway",
+    "short_name": "StateCap DW",
+    "start_finish": {
+        "lat": 305280782,
+        "lon": -913871627,
+        "elev": 5000
+    },
+    "pts": [
+        {
+            "lat": 305280782,
+            "lon": -913871627,
+            "elev": 5000
+        },
+        {
+            "lat": 305318472,
+            "lon": -913872147,
+            "elev": 9000
+        }
+    ]
+}

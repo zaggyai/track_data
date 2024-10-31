@@ -1,0 +1,21 @@
+{
+    "name": "Bahrain International Circuit",
+    "short_name": "Bahrain Drag",
+    "start_finish": {
+        "lat": 260348741,
+        "lon": 505123192,
+        "elev": 11000
+    },
+    "pts": [
+        {
+            "lat": 260348741,
+            "lon": 505123192,
+            "elev": 11000
+        },
+        {
+            "lat": 260310916,
+            "lon": 505121570,
+            "elev": 12000
+        }
+    ]
+}

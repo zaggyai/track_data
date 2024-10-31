@@ -1,0 +1,21 @@
+{
+    "name": "Pueblo Motorsports Park",
+    "short_name": "PMB DW",
+    "start_finish": {
+        "lat": 382985275,
+        "lon": -1046769898,
+        "elev": 1498000
+    },
+    "pts": [
+        {
+            "lat": 382985275,
+            "lon": -1046769898,
+            "elev": 1498000
+        },
+        {
+            "lat": 383021841,
+            "lon": -1046781711,
+            "elev": 1499000
+        }
+    ]
+}

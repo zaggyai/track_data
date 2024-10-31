@@ -1,0 +1,21 @@
+{
+    "name": "Santa Pod Raceway",
+    "short_name": "SantaPod DW",
+    "start_finish": {
+        "lat": 522361147,
+        "lon": -5990305,
+        "elev": 107000
+    },
+    "pts": [
+        {
+            "lat": 522361147,
+            "lon": -5990305,
+            "elev": 107000
+        },
+        {
+            "lat": 522388583,
+            "lon": -5948311,
+            "elev": 104000
+        }
+    ]
+}

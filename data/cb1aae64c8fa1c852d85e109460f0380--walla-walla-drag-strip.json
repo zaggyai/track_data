@@ -1,0 +1,21 @@
+{
+    "name": "Walla Walla Drag Strip",
+    "short_name": "Walla DW",
+    "start_finish": {
+        "lat": 460916691,
+        "lon": -1182975902,
+        "elev": 343000
+    },
+    "pts": [
+        {
+            "lat": 460916691,
+            "lon": -1182975902,
+            "elev": 343000
+        },
+        {
+            "lat": 460936235,
+            "lon": -1182976075,
+            "elev": 341000
+        }
+    ]
+}

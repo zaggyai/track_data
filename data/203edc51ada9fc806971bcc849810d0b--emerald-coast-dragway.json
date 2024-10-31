@@ -1,0 +1,21 @@
+{
+    "name": "Emerald Coast Dragway",
+    "short_name": "EmeraldCoast",
+    "start_finish": {
+        "lat": 306861303,
+        "lon": -867913222,
+        "elev": 59000
+    },
+    "pts": [
+        {
+            "lat": 306861303,
+            "lon": -867913222,
+            "elev": 59000
+        },
+        {
+            "lat": 306867842,
+            "lon": -867891869,
+            "elev": 60000
+        }
+    ]
+}

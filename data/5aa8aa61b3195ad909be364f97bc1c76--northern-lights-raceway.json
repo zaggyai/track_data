@@ -1,0 +1,21 @@
+{
+    "name": "Northern Lights Raceway",
+    "short_name": "NLights DW",
+    "start_finish": {
+        "lat": 562424379,
+        "lon": -1207544021,
+        "elev": 676000
+    },
+    "pts": [
+        {
+            "lat": 562424379,
+            "lon": -1207544021,
+            "elev": 676000
+        },
+        {
+            "lat": 562386806,
+            "lon": -1207544103,
+            "elev": 672000
+        }
+    ]
+}

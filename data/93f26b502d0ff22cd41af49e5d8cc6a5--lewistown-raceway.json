@@ -1,0 +1,21 @@
+{
+    "name": "Lewistown Raceway",
+    "short_name": "Lewistown DW",
+    "start_finish": {
+        "lat": 470433533,
+        "lon": -1094960916,
+        "elev": 1268000
+    },
+    "pts": [
+        {
+            "lat": 470433533,
+            "lon": -1094960916,
+            "elev": 1268000
+        },
+        {
+            "lat": 470399841,
+            "lon": -1094936514,
+            "elev": 1273000
+        }
+    ]
+}

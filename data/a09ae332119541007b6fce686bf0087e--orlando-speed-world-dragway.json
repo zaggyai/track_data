@@ -1,0 +1,21 @@
+{
+    "name": "Orlando Speed World Dragway",
+    "short_name": "OrlandoDrag",
+    "start_finish": {
+        "lat": 285430053,
+        "lon": -810939211,
+        "elev": 25000
+    },
+    "pts": [
+        {
+            "lat": 285430053,
+            "lon": -810939211,
+            "elev": 25000
+        },
+        {
+            "lat": 285392368,
+            "lon": -810939171,
+            "elev": 22000
+        }
+    ]
+}

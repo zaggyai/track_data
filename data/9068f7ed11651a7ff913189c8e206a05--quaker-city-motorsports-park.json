@@ -1,0 +1,21 @@
+{
+    "name": "Quaker City Motorsports Park",
+    "short_name": "QuakerCityDW",
+    "start_finish": {
+        "lat": 409434821,
+        "lon": -808455975,
+        "elev": 368000
+    },
+    "pts": [
+        {
+            "lat": 409434821,
+            "lon": -808455975,
+            "elev": 368000
+        },
+        {
+            "lat": 409397633,
+            "lon": -808463905,
+            "elev": 374000
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Gainesville Raceway",
+    "short_name": "GainesvilleR",
+    "start_finish": {
+        "lat": 297585322,
+        "lon": -822743649,
+        "elev": -32768000
+    },
+    "pts": [
+        {
+            "lat": 297585322,
+            "lon": -822743649,
+            "elev": -32768000
+        },
+        {
+            "lat": 297586052,
+            "lon": -822700339,
+            "elev": -32768000
+        }
+    ]
+}

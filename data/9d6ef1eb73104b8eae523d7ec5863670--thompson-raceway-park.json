@@ -1,0 +1,21 @@
+{
+    "name": "Thompson Raceway Park",
+    "short_name": "Thompson DW",
+    "start_finish": {
+        "lat": 416470789,
+        "lon": -810161625,
+        "elev": 346000
+    },
+    "pts": [
+        {
+            "lat": 416470789,
+            "lon": -810161625,
+            "elev": 346000
+        },
+        {
+            "lat": 416470547,
+            "lon": -810111365,
+            "elev": 343000
+        }
+    ]
+}

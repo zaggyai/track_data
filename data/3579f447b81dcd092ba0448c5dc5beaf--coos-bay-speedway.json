@@ -1,0 +1,21 @@
+{
+    "name": "Coos Bay Speedway",
+    "short_name": "CoosBay DW",
+    "start_finish": {
+        "lat": 432657643,
+        "lon": -1242327021,
+        "elev": 8000
+    },
+    "pts": [
+        {
+            "lat": 432657643,
+            "lon": -1242327021,
+            "elev": 8000
+        },
+        {
+            "lat": 432650139,
+            "lon": -1242351876,
+            "elev": 15000
+        }
+    ]
+}

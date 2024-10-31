@@ -1,0 +1,21 @@
+{
+    "name": "Brainerd International Raceway",
+    "short_name": "Brainerd DW",
+    "start_finish": {
+        "lat": 464218873,
+        "lon": -942809005,
+        "elev": 367000
+    },
+    "pts": [
+        {
+            "lat": 464218873,
+            "lon": -942809005,
+            "elev": 367000
+        },
+        {
+            "lat": 464200788,
+            "lon": -942761233,
+            "elev": 369000
+        }
+    ]
+}

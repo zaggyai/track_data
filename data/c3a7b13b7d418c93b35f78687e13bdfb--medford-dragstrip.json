@@ -1,0 +1,21 @@
+{
+    "name": "Medford Dragstrip",
+    "short_name": "Medford DW",
+    "start_finish": {
+        "lat": 424206143,
+        "lon": -1228015476,
+        "elev": 428000
+    },
+    "pts": [
+        {
+            "lat": 424206143,
+            "lon": -1228015476,
+            "elev": 428000
+        },
+        {
+            "lat": 424169216,
+            "lon": -1228005183,
+            "elev": 431000
+        }
+    ]
+}

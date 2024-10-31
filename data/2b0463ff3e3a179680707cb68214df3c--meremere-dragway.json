@@ -1,0 +1,21 @@
+{
+    "name": "Meremere Dragway",
+    "short_name": "Meremere DW",
+    "start_finish": {
+        "lat": -373372760,
+        "lon": 1750580925,
+        "elev": 8000
+    },
+    "pts": [
+        {
+            "lat": -373372760,
+            "lon": 1750580925,
+            "elev": 8000
+        },
+        {
+            "lat": -373404346,
+            "lon": 1750555151,
+            "elev": 17000
+        }
+    ]
+}

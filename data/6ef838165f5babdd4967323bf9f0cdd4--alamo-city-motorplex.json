@@ -1,0 +1,21 @@
+{
+    "name": "Alamo City Motorplex",
+    "short_name": "AXMplex DW",
+    "start_finish": {
+        "lat": 295217285,
+        "lon": -981378067,
+        "elev": 191000
+    },
+    "pts": [
+        {
+            "lat": 295217285,
+            "lon": -981378067,
+            "elev": 191000
+        },
+        {
+            "lat": 295236138,
+            "lon": -981340652,
+            "elev": 189000
+        }
+    ]
+}

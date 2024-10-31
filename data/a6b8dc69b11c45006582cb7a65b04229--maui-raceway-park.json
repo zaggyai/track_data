@@ -1,0 +1,21 @@
+{
+    "name": "Maui Raceway Park",
+    "short_name": "MRP DW",
+    "start_finish": {
+        "lat": 208165218,
+        "lon": -1564600224,
+        "elev": 25000
+    },
+    "pts": [
+        {
+            "lat": 208165218,
+            "lon": -1564600224,
+            "elev": 25000
+        },
+        {
+            "lat": 208133527,
+            "lon": -1564578286,
+            "elev": 28000
+        }
+    ]
+}

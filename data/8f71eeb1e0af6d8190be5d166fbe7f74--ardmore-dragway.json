@@ -1,0 +1,21 @@
+{
+    "name": "Ardmore Dragway",
+    "short_name": "Ardmore DW",
+    "start_finish": {
+        "lat": 342954410,
+        "lon": -971445888,
+        "elev": 262000
+    },
+    "pts": [
+        {
+            "lat": 342954410,
+            "lon": -971445888,
+            "elev": 262000
+        },
+        {
+            "lat": 342968674,
+            "lon": -971462182,
+            "elev": 262000
+        }
+    ]
+}

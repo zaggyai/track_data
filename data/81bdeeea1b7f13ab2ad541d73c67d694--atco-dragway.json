@@ -1,0 +1,21 @@
+{
+    "name": "Atco Dragway",
+    "short_name": "Atco DW",
+    "start_finish": {
+        "lat": 397748708,
+        "lon": -748303876,
+        "elev": 32000
+    },
+    "pts": [
+        {
+            "lat": 397748708,
+            "lon": -748303876,
+            "elev": 32000
+        },
+        {
+            "lat": 397786018,
+            "lon": -748296683,
+            "elev": 29000
+        }
+    ]
+}

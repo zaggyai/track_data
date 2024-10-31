@@ -1,0 +1,21 @@
+{
+    "name": "Montgomery Motorsports Park",
+    "short_name": "MontgomeryMP",
+    "start_finish": {
+        "lat": 324327912,
+        "lon": -862522212,
+        "elev": 53000
+    },
+    "pts": [
+        {
+            "lat": 324327912,
+            "lon": -862522212,
+            "elev": 53000
+        },
+        {
+            "lat": 324319052,
+            "lon": -862478941,
+            "elev": 51000
+        }
+    ]
+}

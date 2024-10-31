@@ -1,0 +1,21 @@
+{
+    "name": "Toronto Motorsports Park",
+    "short_name": "TMP Dragway",
+    "start_finish": {
+        "lat": 428986814,
+        "lon": -798565178,
+        "elev": -32768000
+    },
+    "pts": [
+        {
+            "lat": 428986814,
+            "lon": -798565178,
+            "elev": -32768000
+        },
+        {
+            "lat": 429016102,
+            "lon": -798533005,
+            "elev": -32768000
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Saskatchewan International Raceway",
+    "short_name": "SK Int DW",
+    "start_finish": {
+        "lat": 519709616,
+        "lon": -1065428450,
+        "elev": 513000
+    },
+    "pts": [
+        {
+            "lat": 519709616,
+            "lon": -1065428450,
+            "elev": 513000
+        },
+        {
+            "lat": 519745275,
+            "lon": -1065448390,
+            "elev": 514000
+        }
+    ]
+}

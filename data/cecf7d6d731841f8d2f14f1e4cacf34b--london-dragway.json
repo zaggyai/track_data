@@ -1,0 +1,21 @@
+{
+    "name": "London Dragway",
+    "short_name": "London DW",
+    "start_finish": {
+        "lat": 371138112,
+        "lon": -842299067,
+        "elev": 351000
+    },
+    "pts": [
+        {
+            "lat": 371138112,
+            "lon": -842299067,
+            "elev": 351000
+        },
+        {
+            "lat": 371148782,
+            "lon": -842278638,
+            "elev": 346000
+        }
+    ]
+}

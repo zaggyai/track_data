@@ -1,0 +1,21 @@
+{
+    "name": "V\u00e5rg\u00e5rda Dragway",
+    "short_name": "Vargarda DW",
+    "start_finish": {
+        "lat": 580414292,
+        "lon": 127890891,
+        "elev": 98000
+    },
+    "pts": [
+        {
+            "lat": 580414292,
+            "lon": 127890891,
+            "elev": 98000
+        },
+        {
+            "lat": 580399010,
+            "lon": 127867973,
+            "elev": 97000
+        }
+    ]
+}

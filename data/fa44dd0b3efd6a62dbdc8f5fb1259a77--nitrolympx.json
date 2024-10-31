@@ -1,0 +1,21 @@
+{
+    "name": "NitrOlympX",
+    "short_name": "NitrOlympX",
+    "start_finish": {
+        "lat": 493254830,
+        "lon": 85683404,
+        "elev": 107000
+    },
+    "pts": [
+        {
+            "lat": 493254830,
+            "lon": 85683404,
+            "elev": 107000
+        },
+        {
+            "lat": 493275515,
+            "lon": 85731518,
+            "elev": 102000
+        }
+    ]
+}

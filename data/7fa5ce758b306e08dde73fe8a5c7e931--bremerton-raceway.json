@@ -1,0 +1,21 @@
+{
+    "name": "Bremerton Raceway",
+    "short_name": "Bremerton DW",
+    "start_finish": {
+        "lat": 474864663,
+        "lon": -1227544076,
+        "elev": 143000
+    },
+    "pts": [
+        {
+            "lat": 474864663,
+            "lon": -1227544076,
+            "elev": 143000
+        },
+        {
+            "lat": 474902338,
+            "lon": -1227544847,
+            "elev": 140000
+        }
+    ]
+}

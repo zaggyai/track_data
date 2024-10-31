@@ -1,0 +1,21 @@
+{
+    "name": "Great Lakes Dragaway",
+    "short_name": "GreatLakesDW",
+    "start_finish": {
+        "lat": 426584502,
+        "lon": -880324001,
+        "elev": 214000
+    },
+    "pts": [
+        {
+            "lat": 426584502,
+            "lon": -880324001,
+            "elev": 214000
+        },
+        {
+            "lat": 426622172,
+            "lon": -880323386,
+            "elev": 215000
+        }
+    ]
+}

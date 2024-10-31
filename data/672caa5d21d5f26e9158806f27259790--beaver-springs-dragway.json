@@ -1,0 +1,21 @@
+{
+    "name": "Beaver Springs Dragway",
+    "short_name": "BeaverS DW",
+    "start_finish": {
+        "lat": 407748179,
+        "lon": -772117712,
+        "elev": 187000
+    },
+    "pts": [
+        {
+            "lat": 407748179,
+            "lon": -772117712,
+            "elev": 187000
+        },
+        {
+            "lat": 407757871,
+            "lon": -772165689,
+            "elev": 194000
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Lucas Oil Raceway at Indianapolis",
+    "short_name": "LucasOilDrag",
+    "start_finish": {
+        "lat": 398093055,
+        "lon": -863431809,
+        "elev": 260000
+    },
+    "pts": [
+        {
+            "lat": 398093055,
+            "lon": -863431809,
+            "elev": 260000
+        },
+        {
+            "lat": 398130739,
+            "lon": -863432623,
+            "elev": 260000
+        }
+    ]
+}

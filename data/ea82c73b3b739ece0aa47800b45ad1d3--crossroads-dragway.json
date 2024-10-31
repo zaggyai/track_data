@@ -1,0 +1,21 @@
+{
+    "name": "Crossroads Dragway",
+    "short_name": "Crossroads D",
+    "start_finish": {
+        "lat": 394219446,
+        "lon": -874186717,
+        "elev": 146000
+    },
+    "pts": [
+        {
+            "lat": 394219446,
+            "lon": -874186717,
+            "elev": 146000
+        },
+        {
+            "lat": 394218362,
+            "lon": -874211932,
+            "elev": 148000
+        }
+    ]
+}

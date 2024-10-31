@@ -1,0 +1,21 @@
+{
+    "name": "Roxboro Motorsports Park",
+    "short_name": "Roxboro DW",
+    "start_finish": {
+        "lat": 363540590,
+        "lon": -788167958,
+        "elev": 165000
+    },
+    "pts": [
+        {
+            "lat": 363540590,
+            "lon": -788167958,
+            "elev": 165000
+        },
+        {
+            "lat": 363521560,
+            "lon": -788173717,
+            "elev": 168000
+        }
+    ]
+}

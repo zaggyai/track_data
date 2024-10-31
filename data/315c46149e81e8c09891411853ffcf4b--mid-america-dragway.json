@@ -1,0 +1,21 @@
+{
+    "name": "Mid America Dragway",
+    "short_name": "MidAmericaDW",
+    "start_finish": {
+        "lat": 370520830,
+        "lon": -971602319,
+        "elev": 378000
+    },
+    "pts": [
+        {
+            "lat": 370520830,
+            "lon": -971602319,
+            "elev": 378000
+        },
+        {
+            "lat": 370501331,
+            "lon": -971600302,
+            "elev": 376000
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Cherokee Race Park",
+    "short_name": "Cherokee DW",
+    "start_finish": {
+        "lat": 363896902,
+        "lon": -830876780,
+        "elev": 336000
+    },
+    "pts": [
+        {
+            "lat": 363896902,
+            "lon": -830876780,
+            "elev": 336000
+        },
+        {
+            "lat": 363902150,
+            "lon": -830853504,
+            "elev": 337000
+        }
+    ]
+}

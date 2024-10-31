@@ -1,0 +1,21 @@
+{
+    "name": "Pacemakers Dragway Park",
+    "short_name": "PacemakersDW",
+    "start_finish": {
+        "lat": 403638711,
+        "lon": -825146869,
+        "elev": 316000
+    },
+    "pts": [
+        {
+            "lat": 403638711,
+            "lon": -825146869,
+            "elev": 316000
+        },
+        {
+            "lat": 403622621,
+            "lon": -825161446,
+            "elev": 326000
+        }
+    ]
+}

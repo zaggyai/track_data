@@ -1,0 +1,21 @@
+{
+    "name": "Kunmadaras Motorsport",
+    "short_name": "Kunmadaras",
+    "start_finish": {
+        "lat": 473943015,
+        "lon": 207920655,
+        "elev": 85000
+    },
+    "pts": [
+        {
+            "lat": 473943015,
+            "lon": 207920655,
+            "elev": 85000
+        },
+        {
+            "lat": 473921578,
+            "lon": 207875054,
+            "elev": 85000
+        }
+    ]
+}

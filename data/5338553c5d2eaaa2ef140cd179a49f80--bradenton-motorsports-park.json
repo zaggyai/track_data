@@ -1,0 +1,21 @@
+{
+    "name": "Bradenton Motorsports Park",
+    "short_name": "BradentonMP",
+    "start_finish": {
+        "lat": 274739141,
+        "lon": -823266573,
+        "elev": 22000
+    },
+    "pts": [
+        {
+            "lat": 274739141,
+            "lon": -823266573,
+            "elev": 22000
+        },
+        {
+            "lat": 274701412,
+            "lon": -823267035,
+            "elev": 22000
+        }
+    ]
+}

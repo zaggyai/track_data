@@ -1,0 +1,21 @@
+{
+    "name": "Maryland International Raceway",
+    "short_name": "MIR DW",
+    "start_finish": {
+        "lat": 383948995,
+        "lon": -768458097,
+        "elev": 41000
+    },
+    "pts": [
+        {
+            "lat": 383948995,
+            "lon": -768458097,
+            "elev": 41000
+        },
+        {
+            "lat": 383965807,
+            "lon": -768415231,
+            "elev": 40000
+        }
+    ]
+}

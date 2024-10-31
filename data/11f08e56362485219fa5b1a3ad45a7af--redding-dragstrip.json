@@ -1,0 +1,21 @@
+{
+    "name": "Redding Dragstrip",
+    "short_name": "Redding DW",
+    "start_finish": {
+        "lat": 405137142,
+        "lon": -1222903670,
+        "elev": 150000
+    },
+    "pts": [
+        {
+            "lat": 405137142,
+            "lon": -1222903670,
+            "elev": 150000
+        },
+        {
+            "lat": 405101815,
+            "lon": -1222886318,
+            "elev": 150000
+        }
+    ]
+}

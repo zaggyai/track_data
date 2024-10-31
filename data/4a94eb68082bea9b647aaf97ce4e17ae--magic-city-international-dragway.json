@@ -1,0 +1,21 @@
+{
+    "name": "Magic City International Dragway",
+    "short_name": "MCI Drag",
+    "start_finish": {
+        "lat": 482344430,
+        "lon": -1012566823,
+        "elev": 470000
+    },
+    "pts": [
+        {
+            "lat": 482344430,
+            "lon": -1012566823,
+            "elev": 470000
+        },
+        {
+            "lat": 482324877,
+            "lon": -1012566820,
+            "elev": 476000
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Lancaster International Dragway",
+    "short_name": "Lancaster DW",
+    "start_finish": {
+        "lat": 429498459,
+        "lon": -786269622,
+        "elev": 223000
+    },
+    "pts": [
+        {
+            "lat": 429498459,
+            "lon": -786269622,
+            "elev": 223000
+        },
+        {
+            "lat": 429517988,
+            "lon": -786269480,
+            "elev": 224000
+        }
+    ]
+}

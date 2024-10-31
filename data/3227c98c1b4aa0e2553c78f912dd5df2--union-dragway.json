@@ -1,0 +1,21 @@
+{
+    "name": "Union Dragway",
+    "short_name": "Union DW",
+    "start_finish": {
+        "lat": 346597520,
+        "lon": -815326485,
+        "elev": 160000
+    },
+    "pts": [
+        {
+            "lat": 346597520,
+            "lon": -815326485,
+            "elev": 160000
+        },
+        {
+            "lat": 346606226,
+            "lon": -815305242,
+            "elev": 160000
+        }
+    ]
+}

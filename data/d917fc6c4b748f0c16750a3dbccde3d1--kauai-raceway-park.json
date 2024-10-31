@@ -1,0 +1,21 @@
+{
+    "name": "Kauai Raceway Park",
+    "short_name": "Kauai DW",
+    "start_finish": {
+        "lat": 219785771,
+        "lon": -1597494220,
+        "elev": 6000
+    },
+    "pts": [
+        {
+            "lat": 219785771,
+            "lon": -1597494220,
+            "elev": 6000
+        },
+        {
+            "lat": 219772390,
+            "lon": -1597456358,
+            "elev": 6000
+        }
+    ]
+}

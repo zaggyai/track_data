@@ -1,0 +1,21 @@
+{
+    "name": "Mid-Michigan Motorplex",
+    "short_name": "MMM DW",
+    "start_finish": {
+        "lat": 433314388,
+        "lon": -850453839,
+        "elev": 290000
+    },
+    "pts": [
+        {
+            "lat": 433314388,
+            "lon": -850453839,
+            "elev": 290000
+        },
+        {
+            "lat": 433314566,
+            "lon": -850480626,
+            "elev": 291000
+        }
+    ]
+}

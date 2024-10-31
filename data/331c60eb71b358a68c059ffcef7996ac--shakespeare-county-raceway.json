@@ -1,0 +1,21 @@
+{
+    "name": "Shakespeare County Raceway",
+    "short_name": "ShakespeareR",
+    "start_finish": {
+        "lat": 521360765,
+        "lon": -17591467,
+        "elev": 45000
+    },
+    "pts": [
+        {
+            "lat": 521360765,
+            "lon": -17591467,
+            "elev": 45000
+        },
+        {
+            "lat": 521389912,
+            "lon": -17552839,
+            "elev": 46000
+        }
+    ]
+}

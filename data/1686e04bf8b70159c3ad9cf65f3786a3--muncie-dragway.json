@@ -1,0 +1,21 @@
+{
+    "name": "Muncie Dragway",
+    "short_name": "Muncie DW",
+    "start_finish": {
+        "lat": 402912942,
+        "lon": -852949096,
+        "elev": 283000
+    },
+    "pts": [
+        {
+            "lat": 402912942,
+            "lon": -852949096,
+            "elev": 283000
+        },
+        {
+            "lat": 402875267,
+            "lon": -852949375,
+            "elev": 279000
+        }
+    ]
+}

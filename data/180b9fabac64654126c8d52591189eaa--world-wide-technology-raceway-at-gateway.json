@@ -1,0 +1,21 @@
+{
+    "name": "World Wide Technology Raceway at Gateway",
+    "short_name": "WWTR Drag",
+    "start_finish": {
+        "lat": 386443180,
+        "lon": -901360456,
+        "elev": 122000
+    },
+    "pts": [
+        {
+            "lat": 386443180,
+            "lon": -901360456,
+            "elev": 122000
+        },
+        {
+            "lat": 386479544,
+            "lon": -901373228,
+            "elev": 117000
+        }
+    ]
+}

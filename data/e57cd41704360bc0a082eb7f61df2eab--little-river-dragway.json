@@ -1,0 +1,21 @@
+{
+    "name": "Little River Dragway",
+    "short_name": "LittleR DW",
+    "start_finish": {
+        "lat": 309663306,
+        "lon": -973469542,
+        "elev": 140000
+    },
+    "pts": [
+        {
+            "lat": 309663306,
+            "lon": -973469542,
+            "elev": 140000
+        },
+        {
+            "lat": 309645487,
+            "lon": -973479030,
+            "elev": 138000
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Pageland Dragway",
+    "short_name": "Pageland DW",
+    "start_finish": {
+        "lat": 346926175,
+        "lon": -803475914,
+        "elev": 141000
+    },
+    "pts": [
+        {
+            "lat": 346926175,
+            "lon": -803475914,
+            "elev": 141000
+        },
+        {
+            "lat": 346936369,
+            "lon": -803455681,
+            "elev": 142000
+        }
+    ]
+}

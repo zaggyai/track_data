@@ -1,0 +1,21 @@
+{
+    "name": "Wagler Motorsports Park",
+    "short_name": "WMP Drag",
+    "start_finish": {
+        "lat": 389688280,
+        "lon": -870254707,
+        "elev": 154000
+    },
+    "pts": [
+        {
+            "lat": 389688280,
+            "lon": -870254707,
+            "elev": 154000
+        },
+        {
+            "lat": 389707832,
+            "lon": -870254606,
+            "elev": 152000
+        }
+    ]
+}

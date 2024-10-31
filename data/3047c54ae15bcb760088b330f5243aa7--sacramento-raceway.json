@@ -1,0 +1,21 @@
+{
+    "name": "Sacramento Raceway",
+    "short_name": "SacramentoDW",
+    "start_finish": {
+        "lat": 385279598,
+        "lon": -1212949326,
+        "elev": 29000
+    },
+    "pts": [
+        {
+            "lat": 385279598,
+            "lon": -1212949326,
+            "elev": 29000
+        },
+        {
+            "lat": 385272066,
+            "lon": -1212902255,
+            "elev": 33000
+        }
+    ]
+}

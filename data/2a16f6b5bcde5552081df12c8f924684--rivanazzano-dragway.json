@@ -1,0 +1,21 @@
+{
+    "name": "Rivanazzano Dragway",
+    "short_name": "Rivanazzano",
+    "start_finish": {
+        "lat": 449554653,
+        "lon": 90148651,
+        "elev": 122000
+    },
+    "pts": [
+        {
+            "lat": 449554653,
+            "lon": 90148651,
+            "elev": 122000
+        },
+        {
+            "lat": 449519275,
+            "lon": 90166883,
+            "elev": 126000
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Milan Dragway",
+    "short_name": "Milan Drag",
+    "start_finish": {
+        "lat": 420318107,
+        "lon": -836136948,
+        "elev": 203000
+    },
+    "pts": [
+        {
+            "lat": 420318107,
+            "lon": -836136948,
+            "elev": 203000
+        },
+        {
+            "lat": 420355455,
+            "lon": -836130187,
+            "elev": 200000
+        }
+    ]
+}

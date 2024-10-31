@@ -1,0 +1,21 @@
+{
+    "name": "Onondaga Dragway",
+    "short_name": "Onondaga DW",
+    "start_finish": {
+        "lat": 424514196,
+        "lon": -845073976,
+        "elev": 293000
+    },
+    "pts": [
+        {
+            "lat": 424514196,
+            "lon": -845073976,
+            "elev": 293000
+        },
+        {
+            "lat": 424530978,
+            "lon": -845087571,
+            "elev": 293000
+        }
+    ]
+}

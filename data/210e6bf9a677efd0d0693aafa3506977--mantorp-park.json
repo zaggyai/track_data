@@ -1,0 +1,21 @@
+{
+    "name": "Mantorp Park",
+    "short_name": "Mantorp DW",
+    "start_finish": {
+        "lat": 583699031,
+        "lon": 152895628,
+        "elev": 90000
+    },
+    "pts": [
+        {
+            "lat": 583699031,
+            "lon": 152895628,
+            "elev": 90000
+        },
+        {
+            "lat": 583682740,
+            "lon": 152831126,
+            "elev": 94000
+        }
+    ]
+}

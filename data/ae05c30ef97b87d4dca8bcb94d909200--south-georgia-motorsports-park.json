@@ -1,0 +1,21 @@
+{
+    "name": "South Georgia Motorsports Park",
+    "short_name": "SGMP DW",
+    "start_finish": {
+        "lat": 310636116,
+        "lon": -833960949,
+        "elev": 70000
+    },
+    "pts": [
+        {
+            "lat": 310636116,
+            "lon": -833960949,
+            "elev": 70000
+        },
+        {
+            "lat": 310672691,
+            "lon": -833971488,
+            "elev": 71000
+        }
+    ]
+}

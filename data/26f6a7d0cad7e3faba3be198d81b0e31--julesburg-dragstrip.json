@@ -1,0 +1,21 @@
+{
+    "name": "Julesburg Dragstrip",
+    "short_name": "Julesburg DW",
+    "start_finish": {
+        "lat": 409749737,
+        "lon": -1023190916,
+        "elev": 1073000
+    },
+    "pts": [
+        {
+            "lat": 409749737,
+            "lon": -1023190916,
+            "elev": 1073000
+        },
+        {
+            "lat": 409718514,
+            "lon": -1023162994,
+            "elev": 1072000
+        }
+    ]
+}

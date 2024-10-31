@@ -1,0 +1,21 @@
+{
+    "name": "Willowbank Raceway",
+    "short_name": "WillowbankDW",
+    "start_finish": {
+        "lat": -276965123,
+        "lon": 1526674267,
+        "elev": 55000
+    },
+    "pts": [
+        {
+            "lat": -276965123,
+            "lon": 1526674267,
+            "elev": 55000
+        },
+        {
+            "lat": -276959067,
+            "lon": 1526632398,
+            "elev": 54000
+        }
+    ]
+}

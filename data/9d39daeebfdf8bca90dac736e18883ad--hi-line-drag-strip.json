@@ -1,0 +1,21 @@
+{
+    "name": "Hi-Line Drag Strip",
+    "short_name": "HiLine Drag",
+    "start_finish": {
+        "lat": 483489912,
+        "lon": -1078791036,
+        "elev": 687000
+    },
+    "pts": [
+        {
+            "lat": 483489912,
+            "lon": -1078791036,
+            "elev": 687000
+        },
+        {
+            "lat": 483489794,
+            "lon": -1078820391,
+            "elev": 691000
+        }
+    ]
+}

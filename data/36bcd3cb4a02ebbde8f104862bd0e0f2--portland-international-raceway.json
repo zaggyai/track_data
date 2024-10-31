@@ -1,0 +1,21 @@
+{
+    "name": "Portland International Raceway",
+    "short_name": "Portland DW",
+    "start_finish": {
+        "lat": 455932463,
+        "lon": -1226879676,
+        "elev": 2000
+    },
+    "pts": [
+        {
+            "lat": 455932463,
+            "lon": -1226879676,
+            "elev": 2000
+        },
+        {
+            "lat": 455946104,
+            "lon": -1226929712,
+            "elev": 1000
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Palmyra Dragway",
+    "short_name": "Palmyra DW",
+    "start_finish": {
+        "lat": -212045153,
+        "lon": 1490767576,
+        "elev": 15000
+    },
+    "pts": [
+        {
+            "lat": -212045153,
+            "lon": 1490767576,
+            "elev": 15000
+        },
+        {
+            "lat": -212082622,
+            "lon": 1490762621,
+            "elev": 17000
+        }
+    ]
+}

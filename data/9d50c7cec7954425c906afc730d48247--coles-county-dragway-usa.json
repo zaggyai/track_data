@@ -1,0 +1,21 @@
+{
+    "name": "Coles County Dragway USA",
+    "short_name": "ColesCountyD",
+    "start_finish": {
+        "lat": 395032557,
+        "lon": -882405312,
+        "elev": 200000
+    },
+    "pts": [
+        {
+            "lat": 395032557,
+            "lon": -882405312,
+            "elev": 200000
+        },
+        {
+            "lat": 395013013,
+            "lon": -882405016,
+            "elev": 202000
+        }
+    ]
+}

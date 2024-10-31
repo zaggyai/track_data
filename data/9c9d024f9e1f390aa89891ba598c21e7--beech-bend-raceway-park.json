@@ -1,0 +1,21 @@
+{
+    "name": "Beech Bend Raceway Park",
+    "short_name": "BeechBend DW",
+    "start_finish": {
+        "lat": 370254265,
+        "lon": -864015466,
+        "elev": 135000
+    },
+    "pts": [
+        {
+            "lat": 370254265,
+            "lon": -864015466,
+            "elev": 135000
+        },
+        {
+            "lat": 370272331,
+            "lon": -864056816,
+            "elev": 131000
+        }
+    ]
+}

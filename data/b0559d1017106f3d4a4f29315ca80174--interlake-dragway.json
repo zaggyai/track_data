@@ -1,0 +1,21 @@
+{
+    "name": "Interlake Dragway",
+    "short_name": "Interlake DW",
+    "start_finish": {
+        "lat": 506318423,
+        "lon": -970534102,
+        "elev": 228000
+    },
+    "pts": [
+        {
+            "lat": 506318423,
+            "lon": -970534102,
+            "elev": 228000
+        },
+        {
+            "lat": 506285760,
+            "lon": -970504555,
+            "elev": 228000
+        }
+    ]
+}

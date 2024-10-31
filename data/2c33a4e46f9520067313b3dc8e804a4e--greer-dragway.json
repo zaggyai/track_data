@@ -1,0 +1,21 @@
+{
+    "name": "Greer Dragway",
+    "short_name": "Greer DW",
+    "start_finish": {
+        "lat": 349583773,
+        "lon": -822125633,
+        "elev": 243000
+    },
+    "pts": [
+        {
+            "lat": 349583773,
+            "lon": -822125633,
+            "elev": 243000
+        },
+        {
+            "lat": 349586824,
+            "lon": -822149141,
+            "elev": 242000
+        }
+    ]
+}

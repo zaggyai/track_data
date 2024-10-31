@@ -1,0 +1,21 @@
+{
+    "name": "Nitro Motorsports Park",
+    "short_name": "Nitro DW",
+    "start_finish": {
+        "lat": 540144225,
+        "lon": -1229500463,
+        "elev": 772000
+    },
+    "pts": [
+        {
+            "lat": 540144225,
+            "lon": -1229500463,
+            "elev": 772000
+        },
+        {
+            "lat": 540181806,
+            "lon": -1229498958,
+            "elev": 767000
+        }
+    ]
+}

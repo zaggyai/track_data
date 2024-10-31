@@ -1,0 +1,21 @@
+{
+    "name": "Castrol Raceway",
+    "short_name": "Castrol DW",
+    "start_finish": {
+        "lat": 533319208,
+        "lon": -1135907945,
+        "elev": 700000
+    },
+    "pts": [
+        {
+            "lat": 533319208,
+            "lon": -1135907945,
+            "elev": 700000
+        },
+        {
+            "lat": 533335332,
+            "lon": -1135964883,
+            "elev": 701000
+        }
+    ]
+}

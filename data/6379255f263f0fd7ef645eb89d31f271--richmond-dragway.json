@@ -1,0 +1,21 @@
+{
+    "name": "Richmond Dragway",
+    "short_name": "Richmond DW",
+    "start_finish": {
+        "lat": 374875637,
+        "lon": -772813786,
+        "elev": 46000
+    },
+    "pts": [
+        {
+            "lat": 374875637,
+            "lon": -772813786,
+            "elev": 46000
+        },
+        {
+            "lat": 374872594,
+            "lon": -772789469,
+            "elev": 44000
+        }
+    ]
+}

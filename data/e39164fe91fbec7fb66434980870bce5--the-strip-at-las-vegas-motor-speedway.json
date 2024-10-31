@@ -1,0 +1,21 @@
+{
+    "name": "The Strip at Las Vegas Motor Speedway",
+    "short_name": "StripLVMS L",
+    "start_finish": {
+        "lat": 362779692,
+        "lon": -1150095240,
+        "elev": 622000
+    },
+    "pts": [
+        {
+            "lat": 362779692,
+            "lon": -1150095240,
+            "elev": 622000
+        },
+        {
+            "lat": 362816407,
+            "lon": -1150084571,
+            "elev": 619000
+        }
+    ]
+}

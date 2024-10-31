@@ -1,0 +1,21 @@
+{
+    "name": "Grand Bend Motorplex",
+    "short_name": "GrandBend DW",
+    "start_finish": {
+        "lat": 432911775,
+        "lon": -817142909,
+        "elev": 194000
+    },
+    "pts": [
+        {
+            "lat": 432911775,
+            "lon": -817142909,
+            "elev": 194000
+        },
+        {
+            "lat": 432930959,
+            "lon": -817187270,
+            "elev": 193000
+        }
+    ]
+}

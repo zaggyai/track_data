@@ -1,0 +1,21 @@
+{
+    "name": "Carolina Dragway",
+    "short_name": "Carolina DW",
+    "start_finish": {
+        "lat": 333631097,
+        "lon": -817975866,
+        "elev": 91000
+    },
+    "pts": [
+        {
+            "lat": 333631097,
+            "lon": -817975866,
+            "elev": 91000
+        },
+        {
+            "lat": 333600263,
+            "lon": -817949939,
+            "elev": 94000
+        }
+    ]
+}

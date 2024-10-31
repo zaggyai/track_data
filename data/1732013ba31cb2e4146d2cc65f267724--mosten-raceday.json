@@ -1,0 +1,21 @@
+{
+    "name": "Mosten Raceday",
+    "short_name": "Mosten",
+    "start_finish": {
+        "lat": 564801792,
+        "lon": 102748595,
+        "elev": -1000
+    },
+    "pts": [
+        {
+            "lat": 564801792,
+            "lon": 102748595,
+            "elev": -1000
+        },
+        {
+            "lat": 564807417,
+            "lon": 102714805,
+            "elev": 0
+        }
+    ]
+}

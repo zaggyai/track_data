@@ -1,0 +1,21 @@
+{
+    "name": "Summit Motorsports Park",
+    "short_name": "SMP DW",
+    "start_finish": {
+        "lat": 412344758,
+        "lon": -825426449,
+        "elev": 267000
+    },
+    "pts": [
+        {
+            "lat": 412344758,
+            "lon": -825426449,
+            "elev": 267000
+        },
+        {
+            "lat": 412382457,
+            "lon": -825427570,
+            "elev": 265000
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Bunker Hill Dragstrip",
+    "short_name": "BunkerHillDS",
+    "start_finish": {
+        "lat": 406362578,
+        "lon": -861016935,
+        "elev": 251000
+    },
+    "pts": [
+        {
+            "lat": 406362578,
+            "lon": -861016935,
+            "elev": 251000
+        },
+        {
+            "lat": 406381713,
+            "lon": -861011798,
+            "elev": 256000
+        }
+    ]
+}

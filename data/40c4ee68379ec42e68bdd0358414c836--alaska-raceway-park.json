@@ -1,0 +1,21 @@
+{
+    "name": "Alaska Raceway Park",
+    "short_name": "Alaska DW",
+    "start_finish": {
+        "lat": 615253852,
+        "lon": -1490260359,
+        "elev": -32768000
+    },
+    "pts": [
+        {
+            "lat": 615253852,
+            "lon": -1490260359,
+            "elev": -32768000
+        },
+        {
+            "lat": 615216145,
+            "lon": -1490260294,
+            "elev": -32768000
+        }
+    ]
+}

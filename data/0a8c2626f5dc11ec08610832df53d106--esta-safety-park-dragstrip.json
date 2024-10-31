@@ -1,0 +1,21 @@
+{
+    "name": "ESTA Safety Park Dragstrip",
+    "short_name": "ESTA DW",
+    "start_finish": {
+        "lat": 431621638,
+        "lon": -760165150,
+        "elev": 119000
+    },
+    "pts": [
+        {
+            "lat": 431621638,
+            "lon": -760165150,
+            "elev": 119000
+        },
+        {
+            "lat": 431620589,
+            "lon": -760216644,
+            "elev": 120000
+        }
+    ]
+}

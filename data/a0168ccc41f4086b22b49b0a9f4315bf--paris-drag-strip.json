@@ -1,0 +1,21 @@
+{
+    "name": "Paris Drag Strip",
+    "short_name": "Paris Drag",
+    "start_finish": {
+        "lat": 336645000,
+        "lon": -954233434,
+        "elev": 164000
+    },
+    "pts": [
+        {
+            "lat": 336645000,
+            "lon": -954233434,
+            "elev": 164000
+        },
+        {
+            "lat": 336664611,
+            "lon": -954233296,
+            "elev": 167000
+        }
+    ]
+}

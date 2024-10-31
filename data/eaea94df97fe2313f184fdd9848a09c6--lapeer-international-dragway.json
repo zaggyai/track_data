@@ -1,0 +1,21 @@
+{
+    "name": "Lapeer International Dragway",
+    "short_name": "LID",
+    "start_finish": {
+        "lat": 431076382,
+        "lon": -832797810,
+        "elev": 252000
+    },
+    "pts": [
+        {
+            "lat": 431076382,
+            "lon": -832797810,
+            "elev": 252000
+        },
+        {
+            "lat": 431069403,
+            "lon": -832822750,
+            "elev": 250000
+        }
+    ]
+}

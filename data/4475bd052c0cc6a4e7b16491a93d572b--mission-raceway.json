@@ -1,0 +1,21 @@
+{
+    "name": "Mission Raceway",
+    "short_name": "Mission DW",
+    "start_finish": {
+        "lat": 491239982,
+        "lon": -1223171064,
+        "elev": 9000
+    },
+    "pts": [
+        {
+            "lat": 491239982,
+            "lon": -1223171064,
+            "elev": 9000
+        },
+        {
+            "lat": 491256355,
+            "lon": -1223222691,
+            "elev": 9000
+        }
+    ]
+}

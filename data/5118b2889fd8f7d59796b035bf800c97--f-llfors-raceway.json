@@ -1,0 +1,21 @@
+{
+    "name": "F\u00e4llfors Raceway",
+    "short_name": "Fallfors DW",
+    "start_finish": {
+        "lat": 651047074,
+        "lon": 207581583,
+        "elev": -32768000
+    },
+    "pts": [
+        {
+            "lat": 651047074,
+            "lon": 207581583,
+            "elev": -32768000
+        },
+        {
+            "lat": 651082788,
+            "lon": 207553751,
+            "elev": -32768000
+        }
+    ]
+}

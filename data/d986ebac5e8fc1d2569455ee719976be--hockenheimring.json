@@ -1,0 +1,21 @@
+{
+    "name": "HockenheimRing",
+    "short_name": "HockenheimDW",
+    "start_finish": {
+        "lat": 493254824,
+        "lon": 85683392,
+        "elev": 107000
+    },
+    "pts": [
+        {
+            "lat": 493254824,
+            "lon": 85683392,
+            "elev": 107000
+        },
+        {
+            "lat": 493275520,
+            "lon": 85731493,
+            "elev": 102000
+        }
+    ]
+}

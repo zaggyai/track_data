@@ -1,0 +1,21 @@
+{
+    "name": "Grove Creek Raceway",
+    "short_name": "GroveCreekDW",
+    "start_finish": {
+        "lat": 451520536,
+        "lon": -946531474,
+        "elev": 348000
+    },
+    "pts": [
+        {
+            "lat": 451520536,
+            "lon": -946531474,
+            "elev": 348000
+        },
+        {
+            "lat": 451509995,
+            "lon": -946508238,
+            "elev": 346000
+        }
+    ]
+}

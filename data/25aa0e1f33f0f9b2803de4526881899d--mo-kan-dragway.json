@@ -1,0 +1,21 @@
+{
+    "name": "Mo-Kan Dragway",
+    "short_name": "Mo-Kan DW",
+    "start_finish": {
+        "lat": 373095086,
+        "lon": -946132619,
+        "elev": 279000
+    },
+    "pts": [
+        {
+            "lat": 373095086,
+            "lon": -946132619,
+            "elev": 279000
+        },
+        {
+            "lat": 373132337,
+            "lon": -946140223,
+            "elev": 278000
+        }
+    ]
+}

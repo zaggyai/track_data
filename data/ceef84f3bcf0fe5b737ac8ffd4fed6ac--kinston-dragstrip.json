@@ -1,0 +1,21 @@
+{
+    "name": "Kinston Dragstrip",
+    "short_name": "Kinston DW",
+    "start_finish": {
+        "lat": 352350641,
+        "lon": -776311000,
+        "elev": 11000
+    },
+    "pts": [
+        {
+            "lat": 352350641,
+            "lon": -776311000,
+            "elev": 11000
+        },
+        {
+            "lat": 352337720,
+            "lon": -776328877,
+            "elev": 11000
+        }
+    ]
+}

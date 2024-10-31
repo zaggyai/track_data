@@ -1,0 +1,21 @@
+{
+    "name": "Eddyville Raceway Park",
+    "short_name": "Eddyville DW",
+    "start_finish": {
+        "lat": 411816229,
+        "lon": -926350826,
+        "elev": 219000
+    },
+    "pts": [
+        {
+            "lat": 411816229,
+            "lon": -926350826,
+            "elev": 219000
+        },
+        {
+            "lat": 411816200,
+            "lon": -926324970,
+            "elev": 216000
+        }
+    ]
+}

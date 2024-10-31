@@ -1,0 +1,21 @@
+{
+    "name": "Ozark Raceway Park",
+    "short_name": "Ozark DW",
+    "start_finish": {
+        "lat": 370791107,
+        "lon": -929888509,
+        "elev": 465000
+    },
+    "pts": [
+        {
+            "lat": 370791107,
+            "lon": -929888509,
+            "elev": 465000
+        },
+        {
+            "lat": 370790095,
+            "lon": -929912923,
+            "elev": 461000
+        }
+    ]
+}

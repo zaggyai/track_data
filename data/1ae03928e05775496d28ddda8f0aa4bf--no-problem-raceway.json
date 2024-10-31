@@ -1,0 +1,21 @@
+{
+    "name": "No Problem Raceway",
+    "short_name": "NoProblem DW",
+    "start_finish": {
+        "lat": 300192401,
+        "lon": -910889900,
+        "elev": 5000
+    },
+    "pts": [
+        {
+            "lat": 300192401,
+            "lon": -910889900,
+            "elev": 5000
+        },
+        {
+            "lat": 300187758,
+            "lon": -910846818,
+            "elev": 6000
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Island Dragway",
+    "short_name": "Island DW",
+    "start_finish": {
+        "lat": 408800067,
+        "lon": -749171907,
+        "elev": 158000
+    },
+    "pts": [
+        {
+            "lat": 408800067,
+            "lon": -749171907,
+            "elev": 158000
+        },
+        {
+            "lat": 408787187,
+            "lon": -749125235,
+            "elev": 155000
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Bandimere Speedway",
+    "short_name": "Bandimere DW",
+    "start_finish": {
+        "lat": 396600292,
+        "lon": -1051873062,
+        "elev": 1785000
+    },
+    "pts": [
+        {
+            "lat": 396600292,
+            "lon": -1051873062,
+            "elev": 1785000
+        },
+        {
+            "lat": 396637837,
+            "lon": -1051878256,
+            "elev": 1784000
+        }
+    ]
+}

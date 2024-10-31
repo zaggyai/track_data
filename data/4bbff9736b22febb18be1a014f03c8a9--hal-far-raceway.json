@@ -1,0 +1,21 @@
+{
+    "name": "Hal Far Raceway",
+    "short_name": "Hal Far R",
+    "start_finish": {
+        "lat": 358197727,
+        "lon": 145040525,
+        "elev": 70000
+    },
+    "pts": [
+        {
+            "lat": 358197727,
+            "lon": 145040525,
+            "elev": 70000
+        },
+        {
+            "lat": 358173651,
+            "lon": 145076114,
+            "elev": 64000
+        }
+    ]
+}

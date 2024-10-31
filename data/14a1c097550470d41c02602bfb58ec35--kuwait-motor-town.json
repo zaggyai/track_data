@@ -1,0 +1,21 @@
+{
+    "name": "Kuwait Motor Town",
+    "short_name": "KMT DW",
+    "start_finish": {
+        "lat": 289252350,
+        "lon": 481441368,
+        "elev": 45000
+    },
+    "pts": [
+        {
+            "lat": 289252350,
+            "lon": 481441368,
+            "elev": 45000
+        },
+        {
+            "lat": 289289706,
+            "lon": 481447762,
+            "elev": 38000
+        }
+    ]
+}

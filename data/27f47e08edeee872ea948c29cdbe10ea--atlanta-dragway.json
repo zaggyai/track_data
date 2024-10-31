@@ -1,0 +1,21 @@
+{
+    "name": "Atlanta Dragway",
+    "short_name": "Atlanta DW",
+    "start_finish": {
+        "lat": 342637346,
+        "lon": -834723616,
+        "elev": 215000
+    },
+    "pts": [
+        {
+            "lat": 342637346,
+            "lon": -834723616,
+            "elev": 215000
+        },
+        {
+            "lat": 342657808,
+            "lon": -834761854,
+            "elev": 215000
+        }
+    ]
+}

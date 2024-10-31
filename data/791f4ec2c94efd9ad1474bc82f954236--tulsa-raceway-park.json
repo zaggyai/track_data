@@ -1,0 +1,21 @@
+{
+    "name": "Tulsa Raceway Park",
+    "short_name": "Tulsa DW",
+    "start_finish": {
+        "lat": 361974067,
+        "lon": -958481707,
+        "elev": 188000
+    },
+    "pts": [
+        {
+            "lat": 361974067,
+            "lon": -958481707,
+            "elev": 188000
+        },
+        {
+            "lat": 361973987,
+            "lon": -958435182,
+            "elev": 193000
+        }
+    ]
+}

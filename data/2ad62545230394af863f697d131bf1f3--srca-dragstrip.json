@@ -1,0 +1,21 @@
+{
+    "name": "SRCA Dragstrip",
+    "short_name": "SRCA Drag",
+    "start_finish": {
+        "lat": 383560807,
+        "lon": -988637824,
+        "elev": 579000
+    },
+    "pts": [
+        {
+            "lat": 383560807,
+            "lon": -988637824,
+            "elev": 579000
+        },
+        {
+            "lat": 383541660,
+            "lon": -988679188,
+            "elev": 582000
+        }
+    ]
+}

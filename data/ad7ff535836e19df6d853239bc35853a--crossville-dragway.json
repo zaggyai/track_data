@@ -1,0 +1,21 @@
+{
+    "name": "Crossville Dragway",
+    "short_name": "CrossvilleDW",
+    "start_finish": {
+        "lat": 360132702,
+        "lon": -850684720,
+        "elev": 515000
+    },
+    "pts": [
+        {
+            "lat": 360132702,
+            "lon": -850684720,
+            "elev": 515000
+        },
+        {
+            "lat": 360114700,
+            "lon": -850675237,
+            "elev": 516000
+        }
+    ]
+}

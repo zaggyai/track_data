@@ -1,0 +1,21 @@
+{
+    "name": "Buffalo Valley Dragway",
+    "short_name": "BuffaloV DW",
+    "start_finish": {
+        "lat": 361732150,
+        "lon": -857556196,
+        "elev": 224000
+    },
+    "pts": [
+        {
+            "lat": 361732150,
+            "lon": -857556196,
+            "elev": 224000
+        },
+        {
+            "lat": 361737700,
+            "lon": -857533086,
+            "elev": 235000
+        }
+    ]
+}

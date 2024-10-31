@@ -1,0 +1,21 @@
+{
+    "name": "South Mountain Raceway",
+    "short_name": "South Mt. DW",
+    "start_finish": {
+        "lat": 401213855,
+        "lon": -771423376,
+        "elev": 164000
+    },
+    "pts": [
+        {
+            "lat": 401213855,
+            "lon": -771423376,
+            "elev": 164000
+        },
+        {
+            "lat": 401194654,
+            "lon": -771427827,
+            "elev": 168000
+        }
+    ]
+}

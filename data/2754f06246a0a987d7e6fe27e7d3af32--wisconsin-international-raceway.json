@@ -1,0 +1,21 @@
+{
+    "name": "Wisconsin International Raceway",
+    "short_name": "Wisconsin DW",
+    "start_finish": {
+        "lat": 442466600,
+        "lon": -882604979,
+        "elev": 213000
+    },
+    "pts": [
+        {
+            "lat": 442466600,
+            "lon": -882604979,
+            "elev": 213000
+        },
+        {
+            "lat": 442492921,
+            "lon": -882567299,
+            "elev": 212000
+        }
+    ]
+}

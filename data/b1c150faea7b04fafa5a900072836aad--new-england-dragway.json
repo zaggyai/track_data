@@ -1,0 +1,21 @@
+{
+    "name": "New England Dragway",
+    "short_name": "NewEnglandDW",
+    "start_finish": {
+        "lat": 430208481,
+        "lon": -710278901,
+        "elev": 37000
+    },
+    "pts": [
+        {
+            "lat": 430208481,
+            "lon": -710278901,
+            "elev": 37000
+        },
+        {
+            "lat": 430240744,
+            "lon": -710252479,
+            "elev": 39000
+        }
+    ]
+}

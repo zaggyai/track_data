@@ -1,0 +1,21 @@
+{
+    "name": "Sonoma Raceway",
+    "short_name": "Sonoma DW",
+    "start_finish": {
+        "lat": 381609397,
+        "lon": -1224534586,
+        "elev": 3000
+    },
+    "pts": [
+        {
+            "lat": 381609397,
+            "lon": -1224534586,
+            "elev": 3000
+        },
+        {
+            "lat": 381632765,
+            "lon": -1224572118,
+            "elev": 9000
+        }
+    ]
+}

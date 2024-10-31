@@ -1,0 +1,21 @@
+{
+    "name": "Springmount Raceway",
+    "short_name": "Springmnt DW",
+    "start_finish": {
+        "lat": -171340732,
+        "lon": 1453444690,
+        "elev": 550000
+    },
+    "pts": [
+        {
+            "lat": -171340732,
+            "lon": 1453444690,
+            "elev": 550000
+        },
+        {
+            "lat": -171318798,
+            "lon": 1453412596,
+            "elev": 547000
+        }
+    ]
+}

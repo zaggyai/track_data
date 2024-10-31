@@ -1,0 +1,21 @@
+{
+    "name": "Marzaglia Dragway",
+    "short_name": "Marzaglia",
+    "start_finish": {
+        "lat": 446300937,
+        "lon": 108133455,
+        "elev": 52000
+    },
+    "pts": [
+        {
+            "lat": 446300937,
+            "lon": 108133455,
+            "elev": 52000
+        },
+        {
+            "lat": 446314440,
+            "lon": 108084214,
+            "elev": 52000
+        }
+    ]
+}

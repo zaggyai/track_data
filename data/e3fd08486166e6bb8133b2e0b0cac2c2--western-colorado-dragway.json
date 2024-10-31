@@ -1,0 +1,21 @@
+{
+    "name": "Western Colorado Dragway",
+    "short_name": "WCDRA",
+    "start_finish": {
+        "lat": 390152838,
+        "lon": -1084657725,
+        "elev": 1524000
+    },
+    "pts": [
+        {
+            "lat": 390152838,
+            "lon": -1084657725,
+            "elev": 1524000
+        },
+        {
+            "lat": 390152732,
+            "lon": -1084609400,
+            "elev": 1526000
+        }
+    ]
+}

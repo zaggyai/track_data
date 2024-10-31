@@ -1,0 +1,21 @@
+{
+    "name": "Malm\u00f6 Raceway",
+    "short_name": "Malmo DW",
+    "start_finish": {
+        "lat": 556305041,
+        "lon": 130282169,
+        "elev": 1000
+    },
+    "pts": [
+        {
+            "lat": 556305041,
+            "lon": 130282169,
+            "elev": 1000
+        },
+        {
+            "lat": 556302451,
+            "lon": 130247980,
+            "elev": -2000
+        }
+    ]
+}

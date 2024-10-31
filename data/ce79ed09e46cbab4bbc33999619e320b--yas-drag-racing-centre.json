@@ -1,0 +1,21 @@
+{
+    "name": "Yas Drag Racing Centre",
+    "short_name": "Yas Drag",
+    "start_finish": {
+        "lat": 244796542,
+        "lon": 546079329,
+        "elev": 1000
+    },
+    "pts": [
+        {
+            "lat": 244796542,
+            "lon": 546079329,
+            "elev": 1000
+        },
+        {
+            "lat": 244758963,
+            "lon": 546084233,
+            "elev": 2000
+        }
+    ]
+}

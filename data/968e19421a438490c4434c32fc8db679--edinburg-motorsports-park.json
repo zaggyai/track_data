@@ -1,0 +1,21 @@
+{
+    "name": "Edinburg Motorsports Park",
+    "short_name": "Edinburg DW",
+    "start_finish": {
+        "lat": 264383456,
+        "lon": -981262322,
+        "elev": 24000
+    },
+    "pts": [
+        {
+            "lat": 264383456,
+            "lon": -981262322,
+            "elev": 24000
+        },
+        {
+            "lat": 264413927,
+            "lon": -981287068,
+            "elev": 27000
+        }
+    ]
+}

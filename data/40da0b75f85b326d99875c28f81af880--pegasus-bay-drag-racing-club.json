@@ -1,0 +1,21 @@
+{
+    "name": "Pegasus Bay Drag Racing Club",
+    "short_name": "PBDRC DW",
+    "start_finish": {
+        "lat": -435282604,
+        "lon": 1724759418,
+        "elev": 47000
+    },
+    "pts": [
+        {
+            "lat": -435282604,
+            "lon": 1724759418,
+            "elev": 47000
+        },
+        {
+            "lat": -435302544,
+            "lon": 1724803298,
+            "elev": 48000
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Hilo Drag Strip",
+    "short_name": "Hilo DW",
+    "start_finish": {
+        "lat": 196760984,
+        "lon": -1550267273,
+        "elev": 36000
+    },
+    "pts": [
+        {
+            "lat": 196760984,
+            "lon": -1550267273,
+            "elev": 36000
+        },
+        {
+            "lat": 196792771,
+            "lon": -1550288811,
+            "elev": 36000
+        }
+    ]
+}

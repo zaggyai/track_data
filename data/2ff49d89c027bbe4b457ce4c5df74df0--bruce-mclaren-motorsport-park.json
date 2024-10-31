@@ -1,0 +1,21 @@
+{
+    "name": "Bruce McLaren Motorsport Park",
+    "short_name": "Bruce Drag.",
+    "start_finish": {
+        "lat": -386633008,
+        "lon": 1761487697,
+        "elev": 461000
+    },
+    "pts": [
+        {
+            "lat": -386633008,
+            "lon": 1761487697,
+            "elev": 461000
+        },
+        {
+            "lat": -386659020,
+            "lon": 1761455694,
+            "elev": 467000
+        }
+    ]
+}
